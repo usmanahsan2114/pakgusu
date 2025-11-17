@@ -1,0 +1,856 @@
+/* Modern Animations & Interactive Effects */
+
+/* ============================================
+   SMOOTH TRANSITIONS FOR ALL INTERACTIVE ELEMENTS
+   ============================================ */
+* {
+    transition: all 0.3s ease-in-out;
+}
+
+a, button, input, textarea, select {
+    transition: all 0.3s ease-in-out;
+}
+
+/* ============================================
+   BUTTON ANIMATIONS
+   ============================================ */
+button,
+.btn,
+.site-button,
+.site-btn-effect,
+.btn-half {
+    position: relative;
+    overflow: hidden;
+    transform: translateY(0);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+button:hover,
+.btn:hover,
+.site-button:hover,
+.site-btn-effect:hover,
+.btn-half:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+button:active,
+.btn:active,
+.site-button:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Button ripple effect */
+button::before,
+.btn::before,
+.site-button::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s, height 0.6s;
+}
+
+button:hover::before,
+.btn:hover::before,
+.site-button:hover::before {
+    width: 300px;
+    height: 300px;
+}
+
+/* ============================================
+   IMAGE ANIMATIONS & HOVER EFFECTS
+   ============================================ */
+img {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transform: scale(1);
+}
+
+img:hover {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Image containers */
+.ow-img,
+.owl-img,
+.welcome-carousel-outer img,
+.team-img img,
+.testimonial-pic img,
+.blog-post img,
+.portfolio-item img {
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.ow-img img,
+.owl-img img,
+.welcome-carousel-outer img,
+.team-img img,
+.testimonial-pic img,
+.blog-post img,
+.portfolio-item img {
+    transition: transform 0.5s ease, filter 0.3s ease;
+}
+
+.ow-img:hover img,
+.owl-img:hover img,
+.welcome-carousel-outer:hover img,
+.team-img:hover img,
+.testimonial-pic:hover img,
+.blog-post:hover img,
+.portfolio-item:hover img {
+    transform: scale(1.1);
+    filter: brightness(1.1);
+}
+
+/* ============================================
+   CARD & BOX HOVER EFFECTS
+   ============================================ */
+.card,
+.hover-box-effect,
+.wt-icon-box-wraper,
+.service-box,
+.product-box,
+.testimonial-5,
+.our-team-one {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transform: translateY(0);
+}
+
+.card:hover,
+.hover-box-effect:hover,
+.wt-icon-box-wraper:hover,
+.service-box:hover,
+.product-box:hover,
+.testimonial-5:hover,
+.our-team-one:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Card image overlay effect */
+.hover-box-effect::before,
+.card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.1) 100%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    border-radius: 5px;
+    pointer-events: none;
+}
+
+.hover-box-effect:hover::before,
+.card:hover::before {
+    opacity: 1;
+}
+
+/* ============================================
+   NAVIGATION ANIMATIONS
+   ============================================ */
+.navbar-nav > li > a {
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.navbar-nav > li > a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background: currentColor;
+    transition: all 0.3s ease;
+    transform: translateX(-50%);
+}
+
+.navbar-nav > li > a:hover::after,
+.navbar-nav > li.active > a::after {
+    width: 80%;
+}
+
+.navbar-nav > li > a:hover {
+    transform: translateY(-2px);
+}
+
+/* Submenu animations */
+.sub-menu {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+}
+
+.navbar-nav > li:hover > .sub-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.sub-menu li {
+    transform: translateX(-10px);
+    transition: transform 0.3s ease;
+}
+
+.sub-menu li:hover {
+    transform: translateX(0);
+}
+
+.sub-menu li a {
+    transition: all 0.2s ease;
+}
+
+.sub-menu li a:hover {
+    padding-left: 10px;
+    color: #007bff;
+}
+
+/* ============================================
+   FORM INPUT ANIMATIONS
+   ============================================ */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+input[type="search"],
+textarea,
+.form-control {
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+textarea:focus,
+.form-control:focus {
+    transform: scale(1.02);
+    box-shadow: 0 5px 15px rgba(0, 123, 255, 0.2);
+    border-color: #007bff;
+}
+
+/* Input animate effect */
+.input-animate input:focus ~ .spin,
+.input-animate textarea:focus ~ .spin {
+    width: 100%;
+    transition: width 0.3s ease;
+}
+
+/* ============================================
+   SECTION ANIMATIONS
+   ============================================ */
+.section-full {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Stagger animation for grid items */
+.row > [class*="col-"] {
+    animation: fadeInUp 0.6s ease-out;
+    animation-fill-mode: both;
+}
+
+.row > [class*="col-"]:nth-child(1) { animation-delay: 0.1s; }
+.row > [class*="col-"]:nth-child(2) { animation-delay: 0.2s; }
+.row > [class*="col-"]:nth-child(3) { animation-delay: 0.3s; }
+.row > [class*="col-"]:nth-child(4) { animation-delay: 0.4s; }
+.row > [class*="col-"]:nth-child(5) { animation-delay: 0.5s; }
+.row > [class*="col-"]:nth-child(6) { animation-delay: 0.6s; }
+
+/* ============================================
+   HEADER ANIMATIONS
+   ============================================ */
+.site-header {
+    transition: all 0.3s ease;
+}
+
+.sticky-header {
+    transition: all 0.3s ease;
+}
+
+.logo-header img {
+    transition: transform 0.3s ease;
+}
+
+.logo-header:hover img {
+    transform: scale(1.05);
+}
+
+/* Search button animation */
+.site-search-btn {
+    transition: all 0.3s ease;
+}
+
+.site-search-btn:hover {
+    transform: rotate(90deg) scale(1.1);
+}
+
+/* Contact slide button */
+.btn-open {
+    transition: all 0.3s ease;
+}
+
+.btn-open:hover {
+    transform: translateX(-5px);
+}
+
+/* ============================================
+   FOOTER ANIMATIONS
+   ============================================ */
+.footer-link a {
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.footer-link a::before {
+    content: attr(data-hover);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+}
+
+.footer-link a:hover::before {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.footer-link a:hover {
+    transform: translateY(-3px);
+}
+
+/* Social icons animation */
+.social-icons a {
+    transition: all 0.3s ease;
+    transform: scale(1);
+}
+
+.social-icons a:hover {
+    transform: scale(1.2) rotate(5deg);
+    color: #007bff;
+}
+
+/* ============================================
+   CAROUSEL & SLIDER ANIMATIONS
+   ============================================ */
+.owl-carousel .owl-item {
+    transition: all 0.4s ease;
+}
+
+.owl-carousel .owl-item:hover {
+    transform: scale(1.02);
+}
+
+.owl-nav button {
+    transition: all 0.3s ease;
+}
+
+.owl-nav button:hover {
+    transform: scale(1.2);
+    background: rgba(0, 0, 0, 0.1);
+}
+
+/* ============================================
+   TESTIMONIAL ANIMATIONS
+   ============================================ */
+.testimonial-5 {
+    transition: all 0.4s ease;
+}
+
+.testimonial-5:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-pic img {
+    transition: all 0.4s ease;
+}
+
+.testimonial-5:hover .testimonial-pic img {
+    transform: scale(1.1);
+}
+
+/* ============================================
+   TEAM MEMBER ANIMATIONS
+   ============================================ */
+.our-team-one {
+    overflow: hidden;
+}
+
+.team-img {
+    transition: all 0.4s ease;
+    overflow: hidden;
+}
+
+.our-team-one:hover .team-img {
+    transform: scale(1.05);
+}
+
+.team-img img {
+    transition: transform 0.5s ease;
+}
+
+.our-team-one:hover .team-img img {
+    transform: scale(1.15);
+}
+
+.team-img ul {
+    transition: all 0.3s ease;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+.our-team-one:hover .team-img ul {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.team-img ul li a {
+    transition: all 0.3s ease;
+    transform: scale(1);
+}
+
+.team-img ul li a:hover {
+    transform: scale(1.2) rotate(5deg);
+}
+
+/* ============================================
+   BREADCRUMB ANIMATIONS
+   ============================================ */
+.breadcrumb a {
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.breadcrumb a::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: currentColor;
+    transition: width 0.3s ease;
+}
+
+.breadcrumb a:hover::after {
+    width: 100%;
+}
+
+.breadcrumb a:hover {
+    transform: translateX(3px);
+}
+
+/* ============================================
+   COUNTER ANIMATIONS
+   ============================================ */
+.counter {
+    transition: all 0.3s ease;
+}
+
+.counter-section-one:hover .counter {
+    transform: scale(1.1);
+    color: #007bff;
+}
+
+/* ============================================
+   ICON ANIMATIONS
+   ============================================ */
+.icon-lg,
+.icon-md,
+.icon-xs,
+.flaticon,
+.fa {
+    transition: all 0.3s ease;
+}
+
+.wt-icon-box-wraper:hover .icon-lg,
+.wt-icon-box-wraper:hover .icon-md,
+.wt-icon-box-wraper:hover .icon-xs,
+.wt-icon-box-wraper:hover .flaticon,
+.wt-icon-box-wraper:hover .fa {
+    transform: scale(1.2) rotate(5deg);
+    color: #007bff;
+}
+
+.icon-shake {
+    animation: shake 2s infinite;
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-3px); }
+    75% { transform: translateX(3px); }
+}
+
+/* ============================================
+   MODAL & POPUP ANIMATIONS
+   ============================================ */
+.modal,
+.popup,
+#search {
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.modal-content,
+.popup-content {
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ============================================
+   SCROLL TO TOP BUTTON
+   ============================================ */
+.scroltop {
+    transition: all 0.3s ease;
+    transform: scale(1);
+}
+
+.scroltop:hover {
+    transform: scale(1.1);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.scroltop:active {
+    transform: scale(0.95);
+}
+
+/* ============================================
+   LOADING ANIMATION
+   ============================================ */
+.loading-area {
+    animation: fadeOut 0.5s ease 0.5s forwards;
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+/* ============================================
+   PAGE LOAD ANIMATIONS
+   ============================================ */
+.page-wraper {
+    animation: fadeIn 0.5s ease;
+}
+
+/* ============================================
+   HOVER EFFECTS FOR SPECIFIC ELEMENTS
+   ============================================ */
+
+/* Welcome carousel */
+.welcome-carousel-outer {
+    overflow: hidden;
+}
+
+.welcome-carousel-outer img {
+    transition: transform 0.6s ease;
+}
+
+.welcome-carousel-outer:hover img {
+    transform: scale(1.1);
+}
+
+/* Blog post cards */
+.blog-post,
+.post-item {
+    transition: all 0.4s ease;
+    overflow: hidden;
+}
+
+.blog-post:hover,
+.post-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Portfolio items */
+.portfolio-item,
+.work-item {
+    overflow: hidden;
+    position: relative;
+}
+
+.portfolio-item::after,
+.work-item::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.portfolio-item:hover::after,
+.work-item:hover::after {
+    opacity: 1;
+}
+
+/* Service boxes */
+.service-box,
+.product-box {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.service-box:hover,
+.product-box:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Icon boxes */
+.wt-icon-box-wraper {
+    transition: all 0.4s ease;
+}
+
+.wt-icon-box-wraper:hover {
+    background: rgba(0, 123, 255, 0.05);
+    transform: translateY(-5px);
+}
+
+/* Contact info boxes */
+.contact-info .wt-icon-box-wraper {
+    transition: all 0.3s ease;
+}
+
+.contact-info .wt-icon-box-wraper:hover {
+    transform: translateX(10px);
+    background: rgba(0, 123, 255, 0.05);
+}
+
+/* ============================================
+   SMOOTH SCROLLING
+   ============================================ */
+html {
+    scroll-behavior: smooth;
+}
+
+/* ============================================
+   FOCUS VISIBLE FOR ACCESSIBILITY
+   ============================================ */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+    outline: 2px solid #007bff;
+    outline-offset: 2px;
+}
+
+/* ============================================
+   PULSE ANIMATION FOR IMPORTANT ELEMENTS
+   ============================================ */
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+}
+
+.notification-animate {
+    animation: pulse 2s infinite;
+}
+
+/* ============================================
+   FADE IN ON SCROLL (when scrolled into view)
+   ============================================ */
+.fade-in-on-scroll {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.6s ease;
+}
+
+.fade-in-on-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* ============================================
+   HOVER LIFT EFFECT FOR CARDS
+   ============================================ */
+.hover-lift {
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hover-lift:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+}
+
+/* ============================================
+   GLOW EFFECT ON HOVER
+   ============================================ */
+.hover-glow {
+    transition: all 0.3s ease;
+}
+
+.hover-glow:hover {
+    box-shadow: 0 0 20px rgba(0, 123, 255, 0.5);
+}
+
+/* ============================================
+   ROTATE ON HOVER
+   ============================================ */
+.hover-rotate {
+    transition: transform 0.3s ease;
+}
+
+.hover-rotate:hover {
+    transform: rotate(5deg);
+}
+
+/* ============================================
+   SLIDE IN ANIMATION
+   ============================================ */
+@keyframes slideInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes slideInRight {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.slide-in-left {
+    animation: slideInLeft 0.6s ease;
+}
+
+.slide-in-right {
+    animation: slideInRight 0.6s ease;
+}
+
+/* ============================================
+   BOUNCE ANIMATION
+   ============================================ */
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+.bounce-animation {
+    animation: bounce 2s infinite;
+}
+
+/* ============================================
+   FLIP ANIMATION
+   ============================================ */
+@keyframes flip {
+    from {
+        transform: rotateY(0);
+    }
+    to {
+        transform: rotateY(360deg);
+    }
+}
+
+.flip-animation {
+    animation: flip 1s ease;
+}
+
+/* ============================================
+   ZOOM IN ANIMATION
+   ============================================ */
+@keyframes zoomIn {
+    from {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.zoom-in {
+    animation: zoomIn 0.5s ease;
+}
+
+/* ============================================
+   RESPONSIVE ANIMATIONS (disable on mobile for performance)
+   ============================================ */
+@media (max-width: 768px) {
+    * {
+        transition: none !important;
+        animation: none !important;
+    }
+    
+    img:hover,
+    button:hover,
+    .card:hover {
+        transform: none !important;
+    }
+}
+

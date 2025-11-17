@@ -1,0 +1,284 @@
+/* Global Border Radius - 5px for all elements */
+
+/* Images */
+img {
+    border-radius: 5px !important;
+}
+
+/* Buttons */
+button,
+.btn,
+.site-button,
+.site-btn-effect,
+.btn-half,
+.btn-open,
+.search-btn,
+.contact_close,
+.scroltop button {
+    border-radius: 5px !important;
+}
+
+/* Sections and containers */
+section,
+.section-full,
+.container,
+.row,
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12,
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12,
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12,
+.widget,
+.widget-section,
+.wt-icon-box-wraper,
+.hover-box-effect,
+.card,
+.panel,
+.box,
+.block-shadow {
+    border-radius: 5px !important;
+}
+
+/* Form elements */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+input[type="search"],
+textarea,
+select,
+.form-control,
+.form-group input,
+.form-group textarea {
+    border-radius: 5px !important;
+}
+
+/* Navigation and menu items */
+.navbar,
+.navbar-nav,
+.navbar-nav li,
+.dropdown-menu,
+.sub-menu,
+.menu-item {
+    border-radius: 5px !important;
+}
+
+/* Header and footer */
+header,
+footer,
+.site-header,
+.site-footer,
+.footer-top,
+.footer-bottom {
+    border-radius: 5px !important;
+}
+
+/* Sliders and carousels */
+.owl-carousel,
+.owl-item,
+.carousel,
+.carousel-item,
+.slider,
+.slide {
+    border-radius: 5px !important;
+}
+
+/* Cards and boxes */
+.card,
+.card-body,
+.card-header,
+.card-footer,
+.box,
+.box-content,
+.service-box,
+.product-box {
+    border-radius: 5px !important;
+}
+
+/* Testimonials */
+.testimonial-5,
+.testimonial-text,
+.testimonial-pic {
+    border-radius: 5px !important;
+}
+
+/* Team members */
+.our-team-one,
+.team-img,
+.team-bg {
+    border-radius: 5px !important;
+}
+
+/* Blog and post items */
+.blog-post,
+.post-item,
+.post-thumb,
+.post-content {
+    border-radius: 5px !important;
+}
+
+/* Portfolio and gallery */
+.portfolio-item,
+.gallery-item,
+.work-item,
+.project-item {
+    border-radius: 5px !important;
+}
+
+/* Overlays and modals */
+.overlay-wraper,
+.modal,
+.modal-content,
+.popup,
+.popup-content {
+    border-radius: 5px !important;
+}
+
+/* Tables */
+table,
+.table,
+.table th,
+.table td {
+    border-radius: 5px !important;
+}
+
+/* Lists */
+ul,
+ol,
+.list-unstyled,
+.list-check-circle {
+    border-radius: 5px !important;
+}
+
+/* Badges and labels */
+.badge,
+.label,
+.tag {
+    border-radius: 5px !important;
+}
+
+/* Progress bars */
+.progress,
+.progress-bar {
+    border-radius: 5px !important;
+}
+
+/* Alerts and notifications */
+.alert,
+.notification,
+.message {
+    border-radius: 5px !important;
+}
+
+/* Tabs */
+.nav-tabs,
+.tab-content,
+.tab-pane {
+    border-radius: 5px !important;
+}
+
+/* Accordion */
+.accordion,
+.accordion-item,
+.accordion-header,
+.accordion-body {
+    border-radius: 5px !important;
+}
+
+/* Pagination */
+.pagination,
+.page-item,
+.page-link {
+    border-radius: 5px !important;
+}
+
+/* Breadcrumbs */
+.breadcrumb,
+.breadcrumb-item {
+    border-radius: 5px !important;
+}
+
+/* Icons and icon boxes */
+.icon-box,
+.icon-content,
+.fa,
+.flaticon {
+    border-radius: 5px !important;
+}
+
+/* Counters */
+.counter,
+.counter-section-one {
+    border-radius: 5px !important;
+}
+
+/* Video and media */
+video,
+iframe,
+.embed-responsive {
+    border-radius: 5px !important;
+}
+
+/* Maps */
+.map,
+.google-map {
+    border-radius: 5px !important;
+}
+
+/* Contact forms */
+.contact-form,
+.cons-contact-form,
+.contact-nav-form {
+    border-radius: 5px !important;
+}
+
+/* Search */
+.search-form,
+.search-popup {
+    border-radius: 5px !important;
+}
+
+/* Social icons */
+.social-icons,
+.social-icons li,
+.social-icons a {
+    border-radius: 5px !important;
+}
+
+/* Logo */
+.logo-header,
+.logo-header-inner,
+.logo-header img {
+    border-radius: 5px !important;
+}
+
+/* Header elements */
+.wt-header-left,
+.wt-header-center,
+.wt-header-right {
+    border-radius: 5px !important;
+}
+
+/* Footer elements */
+.footer-link,
+.footer-link ul,
+.footer-link li {
+    border-radius: 5px !important;
+}
+
+/* General containers */
+.wrapper,
+.page-wraper,
+.content-wrapper,
+.main-content {
+    border-radius: 5px !important;
+}
+
+/* Specific Pak Gusu elements */
+.welcome-carousel-outer,
+.welcome-bg-block,
+.wt-bnr-inr,
+.banner-title-outer,
+.section-head,
+.wt-separator {
+    border-radius: 5px !important;
+}
+
