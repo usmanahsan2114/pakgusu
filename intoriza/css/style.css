@@ -2903,7 +2903,7 @@ margin:20px 80px;
 	font-weight: 500;
 }
 .testimonial-6 .testimonial-position:after{
-	
+	content: "";
 }
 .testimonial-6 .testimonial-position{
 	display:inline-block;
@@ -4174,7 +4174,6 @@ ol.comment-list li.comment .comment-respond .comment-form p {	padding:0 15px !im
 /*-------------------------------------
 	15. blog grid-post
 -------------------------------------*/
-.blog-post .grid-post{}
 .blog-post .grid-post li {float: left;    width: 33.33%;    border-right: 4px solid #fff;    border-bottom: 4px solid #fff;    list-style: none;}
 .blog-post .grid-post li:first-child{width:100%;} 
 .blog-post .grid-post li .portfolio-item {    width: 100%;}
@@ -8697,7 +8696,7 @@ bottom: -25px;}
   display: inline-block;
   color: #50aab2;
   font-size: 20px;
-  background-color:# fff;
+  background-color:#fff;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -8813,7 +8812,6 @@ bottom: -25px;}
 }
 
 /*====footer news letter====*/
-.news-letter-footer{}
 .newsletter-f-left{
 	border-right:1px solid #ddd;
 	margin-bottom:30px;
@@ -9152,8 +9150,6 @@ STEP NUMBER
 .step-number.active{
 	color: #3a4452;
 }
-
-.step-blocks{}
 .step-blocks-one{background-color:#50aab2;}
 .step-blocks-two{background-color:#1e1e20;}
 .step-blocks-three{background-color:#50aab2;}
@@ -9301,7 +9297,7 @@ STEP NUMBER
 	margin-right: -230px;	
 }
 .welcome-carousel-1 .home-carousel-1 {
-	-webkit-box-shadow: -30px 30px 60px 0 #rgba(0,0,0,0.5);
+	-webkit-box-shadow: -30px 30px 60px 0 rgba(0,0,0,0.5);
 	box-shadow: -30px 30px 60px 0 rgba(0,0,0,0.5);
 }
 
