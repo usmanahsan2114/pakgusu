@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = '../../';
 include($root . 'includes/head.php');
 ?>
@@ -82,7 +82,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">Cleanroom Products</span>
@@ -106,7 +106,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Pass Box Types</span>
@@ -119,15 +119,15 @@ include($root . 'includes/head.php');
                     	<div class="row">
                             <div class="col-lg-6 col-md-6 m-b30">
                             	<div class="hover-box-effect  v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-sketch"></i></span>
                                         </div>
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">Types</h4>
                                             <ul class="list-angle-right text-left">
-                                                <li><strong>Static pass box</strong> â€“ For transfers between areas with similar cleanliness levels</li>
-                                                <li><strong>Dynamic pass box</strong> â€“ Integrated fan-filter unit (FFU) and HEPA filtration for transfers between areas of different cleanliness grades</li>
+                                                <li><strong>Static pass box</strong> – For transfers between areas with similar cleanliness levels</li>
+                                                <li><strong>Dynamic pass box</strong> – Integrated fan-filter unit (FFU) and HEPA filtration for transfers between areas of different cleanliness grades</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -136,7 +136,7 @@ include($root . 'includes/head.php');
                             </div>                          
                             <div class="col-lg-6 col-md-6 m-b30">
                                 <div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window"></i></span>
                                         </div>
@@ -164,7 +164,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -343,3 +343,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

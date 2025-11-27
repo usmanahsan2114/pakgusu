@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../';
 include($root . 'includes/head.php');
 ?>
@@ -49,7 +49,7 @@ include($root . 'includes/head.php');
 					<div class="container">
                     
                         <!-- TITLE START -->
-                        <div class="section-head text-center">
+                        <div data-aos="fade-down" class="section-head text-center">
                             <div class="wt-separator-outer separator-center">
                                 <div class="wt-separator">
                                     <span class="site-text-primary text-uppercase sep-line-one ">Trust and recommend</span>
@@ -60,7 +60,7 @@ include($root . 'includes/head.php');
                         <!-- TITLE END -->                    
                     	<div class="row contact-info-section">
                             <div class="col-md-4 col-sm-12 m-b30">
-                                <div class="wt-icon-box-wraper center p-lr30 p-tb50 bdr-1 bdr-gray">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30 p-tb50 bdr-1 bdr-gray">
                                     <div class="icon-md m-b10"><i class="flaticon-smartphone"></i></div>
                                     <div class="icon-content">
                                         <h4>Phone number</h4>
@@ -69,7 +69,7 @@ include($root . 'includes/head.php');
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-12 m-b30">
-                                <div class="wt-icon-box-wraper center p-lr30 p-tb50  block-shadow">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30 p-tb50  block-shadow">
                                     <div class="icon-md  m-b10"><i class="flaticon-email"></i></div>
                                     <div class="icon-content">
                                         <h4>Email address</h4>
@@ -79,11 +79,11 @@ include($root . 'includes/head.php');
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-12 m-b30">
-                                <div class="wt-icon-box-wraper center p-lr30 p-tb50">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30 p-tb50">
                                     <div class="icon-md	 m-b10"><i class="flaticon-placeholder"></i></div>
                                     <div class="icon-content">
                                         <h4>Address info</h4>
-                                        <h5>8-km, Sundarâ€“Raiwind Road, Lahore, Pakistan</h5>
+                                        <h5>8-km, Sundar–Raiwind Road, Lahore, Pakistan</h5>
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@ include($root . 'includes/head.php');
                 <div class="section-content overlay-wraper ">
                     <div class="container">
                             <!-- TITLE START -->
-                            <div class="section-head text-center">
+                            <div data-aos="fade-down" class="section-head text-center">
                                 <div class="wt-separator-outer separator-center">
                                     <div class="wt-separator">
                                         <span class="site-text-primary text-uppercase sep-line-one ">Contact Form</span>
@@ -164,3 +164,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

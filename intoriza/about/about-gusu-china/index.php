@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = '../../';
 include($root . 'includes/head.php');
 ?>
@@ -82,7 +82,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">About</span>
@@ -91,7 +91,7 @@ include($root . 'includes/head.php');
                                     <h2>About GUSU China</h2>
                                 </div>
                                 <!-- TITLE END -->                            
-                                <p>Pak Gusu sources its cleanroom technology, designs and key components from <strong>Jiangsu Gusu Purification Technology Co. Ltd.</strong>, China â€“ a company recognised as a leading provider of integrated cleanroom system solutions.</p>
+                                <p>Pak Gusu sources its cleanroom technology, designs and key components from <strong>Jiangsu Gusu Purification Technology Co. Ltd.</strong>, China – a company recognised as a leading provider of integrated cleanroom system solutions.</p>
                                  <a href="../index.php" class="site-button m-t15 m-b15">Back to About</a>
                             </div>                            
                         </div>
@@ -105,7 +105,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">A Recognised Leader</span>
@@ -133,13 +133,13 @@ include($root . 'includes/head.php');
             <!-- GLOBAL EXPERIENCE SECTION START -->
             <div class="section-full p-t80 p-b50 bg-white">
                 <div class="container">
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <h2>Global Experience</h2>
                     </div>
                     <div class="section-content">
                         <div class="row">
                             <div class="col-lg-12 m-b30">
-                                <p>Over <strong>20+ years</strong>, Gusu has delivered more than <strong>1,000 cleanroom system projects</strong> across China and over <strong>30 countries</strong>, covering approximately <strong>1.5 million mÂ²</strong> of cleanroom area. Its solutions are widely used in:</p>
+                                <p>Over <strong>20+ years</strong>, Gusu has delivered more than <strong>1,000 cleanroom system projects</strong> across China and over <strong>30 countries</strong>, covering approximately <strong>1.5 million m²</strong> of cleanroom area. Its solutions are widely used in:</p>
                                 <ul class="list-check-circle">
                                     <li>Biopharmaceutical and life sciences</li>
                                     <li>Electronics and semiconductor manufacturing</li>
@@ -160,7 +160,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -339,3 +339,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

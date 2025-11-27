@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = '../';
 include($root . 'includes/head.php');
 ?>
@@ -487,7 +487,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">Welcome to Pak Gusu</span>
@@ -496,7 +496,7 @@ include($root . 'includes/head.php');
                                     <h2>Cleanroom Manufacturer <br> in Pakistan</h2>
                                 </div>
                                 <!-- TITLE END -->                            
-                                <p>Pak Gusu is a specialist cleanroom manufacturing company based in Lahore, Pakistan, backed by a team with strong Pharmaceutical and Engineering backgrounds. We understand the regulatory, GMP and operational demands of modern clean facilities â€” and we translate that understanding into practical, reliable cleanroom solutions.</p>
+                                <p>Pak Gusu is a specialist cleanroom manufacturing company based in Lahore, Pakistan, backed by a team with strong Pharmaceutical and Engineering backgrounds. We understand the regulatory, GMP and operational demands of modern clean facilities — and we translate that understanding into practical, reliable cleanroom solutions.</p>
                                 <p>From concept and layout to production, installation and after-sales support, we help you build and maintain clean environments that meet international standards and local industry needs.</p>
                                  <a href="about/index.php" class="site-button m-t15 m-b15">Learn More</a>
                             </div>                            
@@ -511,7 +511,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">About Us</span>
@@ -523,15 +523,15 @@ include($root . 'includes/head.php');
                     <div class="section-content">
                         <div class="row">
                             <div class="col-lg-4 col-md-6 m-b30">
-                                <div class="wt-icon-box-wraper left p-lr30 p-tb30 bg-white">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper left p-lr30 p-tb30 bg-white">
                                     <div class="icon-content text-black">
                                         <h4 class="wt-tilte m-b15">Local Production, Global Expertise</h4>
-                                        <p>Pak Gusu manufactures cleanroom panels and accessories in Pakistan, under technical collaboration with Jiangsu Gusu Purification Technology Co. Ltd., China â€“ a globally recognised provider of turnkey cleanroom systems.</p>
+                                        <p>Pak Gusu manufactures cleanroom panels and accessories in Pakistan, under technical collaboration with Jiangsu Gusu Purification Technology Co. Ltd., China – a globally recognised provider of turnkey cleanroom systems.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
-                                <div class="wt-icon-box-wraper left p-lr30 p-tb30 bg-white">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper left p-lr30 p-tb30 bg-white">
                                     <div class="icon-content text-black">
                                         <h4 class="wt-tilte m-b15">Pharma-Focused Team</h4>
                                         <p>Our core team comes from Pharmaceutical and allied industries, so we speak your language when it comes to GMP layouts, process flows, and validation.</p>
@@ -539,10 +539,10 @@ include($root . 'includes/head.php');
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
-                                <div class="wt-icon-box-wraper left p-lr30 p-tb30 bg-white">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper left p-lr30 p-tb30 bg-white">
                                     <div class="icon-content text-black">
                                         <h4 class="wt-tilte m-b15">End-to-End Capability</h4>
-                                        <p>Design, panels production, aluminium profiles, doors, windows, transfer hatches, lighting, and installation â€“ all coordinated under one umbrella.</p>
+                                        <p>Design, panels production, aluminium profiles, doors, windows, transfer hatches, lighting, and installation – all coordinated under one umbrella.</p>
                                     </div>
                                 </div>
                             </div>
@@ -558,10 +558,10 @@ include($root . 'includes/head.php');
                     <div class="section-content">
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-6 col-md-12 m-b30">
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                     <h2>Our Manufacturing Facility</h2>
                                 </div>
-                                <p>All production phases â€“ design, fabrication, assembly, packaging and back-office coordination â€“ are managed from our registered office and manufacturing plant located at <strong>Sundarâ€“Raiwind Road, Lahore</strong>.</p>
+                                <p>All production phases – design, fabrication, assembly, packaging and back-office coordination – are managed from our registered office and manufacturing plant located at <strong>Sundar–Raiwind Road, Lahore</strong>.</p>
                                 <p>This local presence means shorter lead times, controlled quality and responsive support for Pakistani clients.</p>
                             </div>
                             <div class="col-lg-6 col-md-12 m-b30">
@@ -579,13 +579,13 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Cleanroom Standards</span>
                             </div>
                         </div>
-                        <h2>Cleanroom Classifications â€“ At a Glance</h2>
+                        <h2>Cleanroom Classifications – At a Glance</h2>
                     </div>
                     <!-- TITLE END -->
                     <div class="section-content">
@@ -611,7 +611,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b20 bg-white">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Industries We Serve</span>
@@ -724,7 +724,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-white">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Products & Services</span>
@@ -737,7 +737,7 @@ include($root . 'includes/head.php');
                     	<div class="row">
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect  v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-gray">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-gray">
                                         <div class="icon-lg site-text-primary m-b25">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-sketch"></i></span>
                                         </div>
@@ -752,7 +752,7 @@ include($root . 'includes/head.php');
                             </div>                          
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
                                         <div class="icon-lg site-text-primary m-b25">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window"></i></span>
                                         </div>
@@ -767,7 +767,7 @@ include($root . 'includes/head.php');
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
                                         <div class="icon-lg site-text-primary m-b25">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window-5"></i></span>
                                         </div>
@@ -782,7 +782,7 @@ include($root . 'includes/head.php');
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-gray">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-gray">
                                         <div class="icon-lg site-text-primary m-b25">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-plant"></i></span>
                                         </div>
@@ -797,7 +797,7 @@ include($root . 'includes/head.php');
                             </div>                          
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
                                         <div class="icon-lg site-text-primary m-b25">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-sofa"></i></span>
                                         </div>
@@ -812,7 +812,7 @@ include($root . 'includes/head.php');
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                                  <div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-gray">
                                         <div class="icon-lg site-text-primary m-b25">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-review "></i></span>
                                         </div>
@@ -837,7 +837,7 @@ include($root . 'includes/head.php');
                     <div class="section-content">
                         <div class="video-section-full bg-white">
                             <span class="font-18 site-text-primary text-uppercase">Cleanroom Solutions</span>
-                            <h4 class="wt-tilte m-tb20">Local production, global expertise â€” manufacturing cleanroom panels<br> and accessories in Pakistan.</h4>
+                            <h4 class="wt-tilte m-tb20">Local production, global expertise — manufacturing cleanroom panels<br> and accessories in Pakistan.</h4>
                             <div class="video-section-content">
                             	<div class="video-section-left">
                                      <a href="https://player.vimeo.com/video/34741214?color=ffffff&title=0&byline=0&portrait=0" class="mfp-video play-now">
@@ -859,7 +859,7 @@ include($root . 'includes/head.php');
             <div class="section-full small-device bg-white p-t80 p-b40">
 				<div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our latest blog</span>
@@ -874,7 +874,7 @@ include($root . 'includes/head.php');
                     <div class="section-content">
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
-                                <div class="blog-post latest-blog-1  date-style-1">
+                                <div data-aos="fade-up" class="blog-post latest-blog-1  date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic1.jpg" alt=""></a>
                                     </div>
@@ -905,7 +905,7 @@ include($root . 'includes/head.php');
                             </div>
                             
                             <div class="col-lg-6 col-md-6">
-                                <div class="blog-post latest-blog-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post latest-blog-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic2.jpg" alt=""></a>
                                     </div>
@@ -947,7 +947,7 @@ include($root . 'includes/head.php');
                 <div class="container">
                 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Meet our clients</span>
@@ -1012,7 +1012,7 @@ include($root . 'includes/head.php');
 
             	 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Work gallery</span>
@@ -1304,3 +1304,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

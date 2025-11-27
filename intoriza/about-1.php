@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = './';
 include($root . 'includes/head.php');
 ?>
@@ -81,7 +81,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">Our Story</span>
@@ -95,7 +95,7 @@ include($root . 'includes/head.php');
                                 <h4 class="m-t30 m-b15">Our Story</h4>
                                 <ul class="list-angle-right">
                                     <li>In <strong>2017</strong>, Pak Gusu signed a technical collaboration agreement with <strong>Jiangsu Gusu Purification Technology Co. Ltd. (China)</strong>, one of China's leading cleanroom manufacturers.</li>
-                                    <li>In <strong>2018</strong>, we established our production site at <strong>8-km, Sundarâ€“Raiwind Road, Lahore, Pakistan</strong> and installed complete panel production machinery imported from China.</li>
+                                    <li>In <strong>2018</strong>, we established our production site at <strong>8-km, Sundar–Raiwind Road, Lahore, Pakistan</strong> and installed complete panel production machinery imported from China.</li>
                                     <li>By <strong>2019</strong>, our plant began commercial production of cleanroom panels, serving Pharmaceutical and related industries across Pakistan.</li>
                                 </ul>
                                  <a href="about/about-pak-gusu/index.php" class="site-button m-t15 m-b15">Learn More</a>
@@ -111,7 +111,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">What We Bring</span>
@@ -124,7 +124,7 @@ include($root . 'includes/head.php');
                     	<div class="row">
                             <div class="col-lg-6 col-md-6 m-b30">
                             	<div class="hover-box-effect  v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-sketch"></i></span>
                                         </div>
@@ -138,7 +138,7 @@ include($root . 'includes/head.php');
                             </div>                          
                             <div class="col-lg-6 col-md-6 m-b30">
                                 <div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window"></i></span>
                                         </div>
@@ -167,7 +167,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -182,7 +182,7 @@ include($root . 'includes/head.php');
                                 <p class="text-center m-b30">Our team includes professionals with diverse expertise:</p>
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6 m-b30">
-                                        <div class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
+                                        <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
                                             <div class="icon-content text-black">
                                                 <h4 class="wt-tilte m-b15">Pharmaceutical Experts</h4>
                                                 <p>Pharmaceutical production and validation experience</p>
@@ -190,7 +190,7 @@ include($root . 'includes/head.php');
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-md-6 m-b30">
-                                        <div class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
+                                        <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
                                             <div class="icon-content text-black">
                                                 <h4 class="wt-tilte m-b15">Engineers</h4>
                                                 <p>Mechanical and electrical engineers</p>
@@ -198,7 +198,7 @@ include($root . 'includes/head.php');
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-md-6 m-b30">
-                                        <div class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
+                                        <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
                                             <div class="icon-content text-black">
                                                 <h4 class="wt-tilte m-b15">Production Team</h4>
                                                 <p>Production and quality technicians</p>
@@ -206,7 +206,7 @@ include($root . 'includes/head.php');
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-md-6 m-b30">
-                                        <div class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
+                                        <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30 p-tb30 bg-white">
                                             <div class="icon-content text-black">
                                                 <h4 class="wt-tilte m-b15">Coordination</h4>
                                                 <p>Procurement, sales and project coordination specialists</p>
@@ -336,3 +336,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

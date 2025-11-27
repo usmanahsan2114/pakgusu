@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = './';
 include($root . 'includes/head.php');
 ?>
@@ -40,7 +40,7 @@ include($root . 'includes/head.php');
                     <div class="portfolio-wrap mfp-gallery news-masonry row">
                             <!-- COLUMNS 2 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/pic1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -71,7 +71,7 @@ include($root . 'includes/head.php');
                                            
                             <!-- COLUMNS 1 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/portrait-2/pic1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -103,7 +103,7 @@ include($root . 'includes/head.php');
 
                             <!-- COLUMNS 4 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/pic5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -111,7 +111,7 @@ include($root . 'includes/head.php');
                                 	<div class="wt-post-info  bg-white p-t30">
                                        
                                         <div class="wt-post-title ">
-                                            <h4 class="post-title"><a href="post-right-sidebar.php" class=" font-weight-600 m-t0">Whatever your style, we’ll help you achieve it.</a></h4>
+                                            <h4 class="post-title"><a href="post-right-sidebar.php" class=" font-weight-600 m-t0">Whatever your style, we�ll help you achieve it.</a></h4>
                                         </div>
                                         <div class="wt-post-meta ">
                                             <ul>
@@ -136,7 +136,7 @@ include($root . 'includes/head.php');
                             
                             <!-- COLUMNS 3 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid  blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid  blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/portrait-2/pic2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -167,7 +167,7 @@ include($root . 'includes/head.php');
                                                     
                             <!-- COLUMNS 5 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/portrait-2/pic3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -200,7 +200,7 @@ include($root . 'includes/head.php');
                             
                             <!-- COLUMNS 6 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/pic2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -230,7 +230,7 @@ include($root . 'includes/head.php');
                             </div>
                             <!-- COLUMNS 7 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/portrait-2/pic4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -262,7 +262,7 @@ include($root . 'includes/head.php');
                             </div>
                             <!-- COLUMNS 8 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/pic3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -294,7 +294,7 @@ include($root . 'includes/head.php');
                             </div>
                             <!-- COLUMNS 9 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/portrait-2/pic5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -324,7 +324,7 @@ include($root . 'includes/head.php');
                             </div>
                             <!-- COLUMNS 10 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/pic6.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -354,7 +354,7 @@ include($root . 'includes/head.php');
                             </div>
                             <!-- COLUMNS 11 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/portrait-2/pic6.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -384,7 +384,7 @@ include($root . 'includes/head.php');
                             </div>  
                             <!-- COLUMNS 12 -->
                             <div class="masonry-item col-lg-4 col-md-6 col-sm-6">
-                                <div class="blog-post blog-grid blog-grid-1 date-style-1">
+                                <div data-aos="fade-up" class="blog-post blog-grid blog-grid-1 date-style-1">
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/gallery/pic4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -428,3 +428,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

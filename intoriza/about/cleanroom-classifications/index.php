@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = '../../';
 include($root . 'includes/head.php');
 ?>
@@ -82,7 +82,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">About</span>
@@ -105,7 +105,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">International Standards</span>
@@ -119,8 +119,8 @@ include($root . 'includes/head.php');
                             <div class="col-lg-12 m-b30">
                                 <p>Two commonly referenced standards include:</p>
                                 <ul class="list-check-circle">
-                                    <li><strong>Federal Standard 209E (US)</strong> â€“ Defines cleanroom classes (e.g. Class 100, Class 10,000) based on the maximum number of particles â‰¥ 0.5 Âµm per cubic foot of air.</li>
-                                    <li><strong>ISO 14644-1</strong> â€“ The current international standard, which defines classes (ISO 1 to ISO 9) based on particle counts per cubic meter for various particle sizes.</li>
+                                    <li><strong>Federal Standard 209E (US)</strong> – Defines cleanroom classes (e.g. Class 100, Class 10,000) based on the maximum number of particles = 0.5 µm per cubic foot of air.</li>
+                                    <li><strong>ISO 14644-1</strong> – The current international standard, which defines classes (ISO 1 to ISO 9) based on particle counts per cubic meter for various particle sizes.</li>
                                 </ul>
                                 <p>In the UK and EU, British and EN ISO standards align with ISO 14644-1.</p>
                             </div>
@@ -133,15 +133,15 @@ include($root . 'includes/head.php');
             <!-- WHAT THE CLASSES MEAN SECTION START -->
             <div class="section-full p-t80 p-b50 bg-white">
                 <div class="container">
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <h2>What the Classes Mean Practically</h2>
                     </div>
                     <div class="section-content">
                         <div class="row">
                             <div class="col-lg-12 m-b30">
                                 <ul class="list-check-circle">
-                                    <li><strong>ISO 5â€“6 / Class 100â€“1,000</strong>: High-critical areas like filling lines, sterile manufacturing zones, some laboratories.</li>
-                                    <li><strong>ISO 7â€“8 / Class 10,000â€“100,000</strong>: Support areas, preparation rooms, packaging, and less critical processing zones.</li>
+                                    <li><strong>ISO 5–6 / Class 100–1,000</strong>: High-critical areas like filling lines, sterile manufacturing zones, some laboratories.</li>
+                                    <li><strong>ISO 7–8 / Class 10,000–100,000</strong>: Support areas, preparation rooms, packaging, and less critical processing zones.</li>
                                 </ul>
                                 <p class="m-t30">Each project's required classification depends on:</p>
                                 <ul class="list-check-circle">
@@ -159,7 +159,7 @@ include($root . 'includes/head.php');
             <!-- HOW PAK GUSU HELPS SECTION START -->
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <h2>How Pak Gusu Helps You Comply</h2>
                     </div>
                     <div class="section-content">
@@ -184,7 +184,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -363,3 +363,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

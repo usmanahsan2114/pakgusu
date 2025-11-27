@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = './';
 include($root . 'includes/head.php');
 ?>
@@ -41,7 +41,7 @@ include($root . 'includes/head.php');
                         <div class="wt-mid-page">
                             <div class="news-listing ">
                                 <!-- COLUMNS 1 -->
-                                <div class="blog-post blog-md date-style-1 blog-list-1 clearfix  m-b60 bg-white" >
+                                <div data-aos="fade-up" class="blog-post blog-md date-style-1 blog-list-1 clearfix  m-b60 bg-white" >
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/blog/default/thum1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -70,14 +70,14 @@ include($root . 'includes/head.php');
                                 </div>                             
 
                                 <!-- COLUMNS 2 -->
-                                <div class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
+                                <div data-aos="fade-up" class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/blog/default/thum2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
                                     <div class="wt-post-info  bg-white">
                                         
                                         <div class="wt-post-title ">
-                                            <h4><a href="post-right-sidebar.php" class=" font-weight-600 m-t0">Whatever your style, we’ll help you achieve it.</a></h4>
+                                            <h4><a href="post-right-sidebar.php" class=" font-weight-600 m-t0">Whatever your style, we�ll help you achieve it.</a></h4>
                                         </div>
                                         <div class="wt-post-meta ">
                                             <ul>
@@ -99,7 +99,7 @@ include($root . 'includes/head.php');
                                 </div> 
                                 
                                 <!-- COLUMNS 3 -->
-                                <div class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
+                                <div data-aos="fade-up" class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/blog/default/thum3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -128,7 +128,7 @@ include($root . 'includes/head.php');
                                 </div> 
                                 
                                 <!-- COLUMNS 4 -->
-                                <div class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
+                                <div data-aos="fade-up" class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/blog/default/thum4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -157,7 +157,7 @@ include($root . 'includes/head.php');
                                 </div> 
                                 
                                 <!-- COLUMNS 5 -->
-                                <div class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
+                                <div data-aos="fade-up" class="blog-post blog-md date-style-1  blog-list-1 clearfix  m-b60 bg-white" >
                                     <div class="wt-post-media wt-img-effect zoom-slow">
                                         <a href="post-right-sidebar.php"><img src="images/blog/default/thum5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                     </div>
@@ -210,3 +210,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

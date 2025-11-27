@@ -32,3 +32,12 @@
 
 <!-- REVOLUTION SLIDER SCRIPT FILES -->
 <script  src="<?php echo $root; ?>js/rev-script-1.js"></script>
+
+<!-- AOS ANIMATION -->
+<script src="<?php echo $root; ?>js/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 1000,
+    once: true,
+  });
+</script>

@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = './';
 include($root . 'includes/head.php');
 ?>
@@ -38,7 +38,7 @@ include($root . 'includes/head.php');
                 <div class="container">
                     <div class="wt-mid-page">
                         <!-- BLOG START -->
-                        <div class="blog-post date-style-1 blog-detail text-black">
+                        <div data-aos="fade-up" class="blog-post date-style-1 blog-detail text-black">
                             <div class="wt-post-media">
                                 <!--Fade slider-->
                                 <div class="owl-carousel owl-fade-slider-one owl-btn-vertical-center m-b30">
@@ -81,7 +81,7 @@ include($root . 'includes/head.php');
                                 </p>                            
                                 <blockquote>
                                     <i class="fa fa-quote-left"></i>
-                                    <p>Youâ€™ll surely get meeting report, that outlines everything we had discuss. This is needed to ensure you that understanding of the project meets your requirements and your expectations.</p>
+                                    <p>You’ll surely get meeting report, that outlines everything we had discuss. This is needed to ensure you that understanding of the project meets your requirements and your expectations.</p>
                                     <div class="p-t15 text-uppercase">
                                         <strong>Maurica drake</strong>
                                         <span>Lead manager</span>
@@ -96,7 +96,7 @@ include($root . 'includes/head.php');
                         <div class="section-full">
                             
                             <!-- TITLE START -->
-                            <div class="section-head text-left">
+                            <div data-aos="fade-down" class="section-head text-left">
                                 <h2 class="m-b5">Related posts</h2>
                             </div>
                             <!-- TITLE END -->  
@@ -219,7 +219,7 @@ include($root . 'includes/head.php');
                                                     <a href="post-right-sidebar.php">January 22, 2024 at 5:15 am</a>
                                                 </div>                                                
 
-                                                <p>Since its inception in 2013, Unit London has strived to provide a unique and experimental platform for the worldâ€™s most distinctive emerging talent, showcasing their work to a culturally curious audience across the globe.</p>
+                                                <p>Since its inception in 2013, Unit London has strived to provide a unique and experimental platform for the world’s most distinctive emerging talent, showcasing their work to a culturally curious audience across the globe.</p>
                                                 <div class="reply">
                                                     <a href="post-right-sidebar.php" class="comment-reply-link" data-hover="Read More">Read More</a>
                                                 </div>
@@ -255,7 +255,7 @@ include($root . 'includes/head.php');
                                                         <div class="comment-meta">
                                                             <a href="post-right-sidebar.php">January 24, 2024 at 6:15 am</a>
                                                         </div>  
-                                                        <p>The worldâ€™s most distinctive emerging talent, showcasing their work to a culturally curious audience across the globe.</p>
+                                                        <p>The world’s most distinctive emerging talent, showcasing their work to a culturally curious audience across the globe.</p>
                                                         <div class="reply">
                                                             <a href="post-right-sidebar.php" class="comment-reply-link" data-hover="Read More">Read More</a>
                                                         </div>
@@ -345,3 +345,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

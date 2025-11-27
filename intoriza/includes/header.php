@@ -23,25 +23,25 @@
                             </form>
                             <div class="contact-info text-black m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head text-left">
+                                <div data-aos="fade-down" class="section-head text-left">
                                     <h4 class="m-b5">Contact Info</h4>
                                 </div>
                                 <!-- TITLE END --> 
-                                <div class="wt-icon-box-wraper left p-b40 icon-shake-outer">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper left p-b40 icon-shake-outer">
                                     <div class="icon-xs"><i class="flaticon-smartphone  icon-shake"></i></div>
                                     <div class="icon-content">
                                         <h5 class="m-t0 font-weight-500">Phone number</h5>
                                         <p>+92 321 8073738</p>
                                     </div>
                                 </div>
-                                <div class="wt-icon-box-wraper left p-b40 icon-shake-outer">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper left p-b40 icon-shake-outer">
                                     <div class="icon-xs"><i class="flaticon-email  icon-shake"></i></div>
                                     <div class="icon-content">
                                         <h5 class="m-t0 font-weight-500">Email address</h5>
                                         <p>info@pakgusu.com<br>pakgusu@gmail.com</p>
                                     </div>
                                 </div>
-                                <div class="wt-icon-box-wraper left icon-shake-outer">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper left icon-shake-outer">
                                     <div class="icon-xs"><i class="flaticon-placeholder  icon-shake"></i></div>
                                     <div class="icon-content">
                                         <h5 class="m-t0 font-weight-500">Address info</h5>
@@ -66,3 +66,4 @@
         </div>
     </div>
 </header>
+

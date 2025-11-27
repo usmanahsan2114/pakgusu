@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = './';
 include($root . 'includes/head.php');
 ?>
@@ -39,7 +39,7 @@ include($root . 'includes/head.php');
                     <div class="row">
                         <div class="col-lg-8 col-md-12 m-b30">
                             <!-- BLOG START -->
-                            <div class="blog-post date-style-1 blog-detail text-black">
+                            <div data-aos="fade-up" class="blog-post date-style-1 blog-detail text-black">
                                 <div class="wt-post-media">
                                     <!--Fade slider-->
                                     <div class="owl-carousel owl-fade-slider-one owl-btn-vertical-center m-b30">
@@ -77,12 +77,12 @@ include($root . 'includes/head.php');
                                 </div>
                                
                                 <div class="wt-post-text">
-                                    <p>Photography can be a lonely business, but there is no reason why that has to be the case. Of course, there are many that enjoy the solitude. If youâ€™re a photographer who enjoys more of a community there are some great ways to get together for group photography. The reasons to join a group are varied, and even if youâ€™re a lone ranger there are likely some ideas here for you. Linking up with others could just be about an online community, or meeting up in per son. However you like to do group photography, here are seven ideas for you.</p>
+                                    <p>Photography can be a lonely business, but there is no reason why that has to be the case. Of course, there are many that enjoy the solitude. If you’re a photographer who enjoys more of a community there are some great ways to get together for group photography. The reasons to join a group are varied, and even if you’re a lone ranger there are likely some ideas here for you. Linking up with others could just be about an online community, or meeting up in per son. However you like to do group photography, here are seven ideas for you.</p>
                                     <p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massa sagittis vest ibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis. Vivamus sit amet lectus venenatis est rhoncusint er dum a vitae velit.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.
                                     </p>                            
                                     <blockquote>
                                         <i class="fa fa-quote-left"></i>
-                                        <p>Youâ€™ll surely get meeting report, that outlines everything we had discuss. This is needed to ensure you that understanding of the project meets your requirements and your expectations.</p>
+                                        <p>You’ll surely get meeting report, that outlines everything we had discuss. This is needed to ensure you that understanding of the project meets your requirements and your expectations.</p>
                                         <div class="p-t15 text-uppercase">
                                             <strong>Maurica drake</strong>
                                             <span>Lead manager</span>
@@ -98,7 +98,7 @@ include($root . 'includes/head.php');
                             <!-- OUR BLOG START -->
                             <div>
                                 <!-- TITLE START -->
-                                <div class="section-head text-left">
+                                <div data-aos="fade-down" class="section-head text-left">
                                     <h2 class="m-b5">Related posts</h2>
                                 </div>
                                 <!-- TITLE END -->  
@@ -476,3 +476,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../../';
 include($root . 'includes/head.php');
 ?>
@@ -82,7 +82,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">Cleanroom Products</span>
@@ -91,7 +91,7 @@ include($root . 'includes/head.php');
                                     <h2>Cleanroom Panels</h2>
                                 </div>
                                 <!-- TITLE END -->                            
-                                <p>Pak Gusu manufactures cleanroom-grade sandwich panels in Pakistan, using cores and technologies aligned with Gusu China's panel systems – ensuring consistent quality and performance.</p>
+                                <p>Pak Gusu manufactures cleanroom-grade sandwich panels in Pakistan, using cores and technologies aligned with Gusu China's panel systems � ensuring consistent quality and performance.</p>
                                 <p>Our panels are engineered for smooth, easy-to-clean surfaces, airtight and dust-resistant joints, and compatibility with GMP and ISO cleanroom design requirements.</p>
                                  <a href="<?php echo $root; ?>products/index.php" class="site-button m-t15 m-b15">View All Products</a>
                             </div>                            
@@ -106,7 +106,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Panel Types</span>
@@ -119,7 +119,7 @@ include($root . 'includes/head.php');
                     	<div class="row">
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect  v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-sketch"></i></span>
                                         </div>
@@ -133,7 +133,7 @@ include($root . 'includes/head.php');
                             </div>                          
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window"></i></span>
                                         </div>
@@ -147,7 +147,7 @@ include($root . 'includes/head.php');
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window-5"></i></span>
                                         </div>
@@ -187,7 +187,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -366,3 +366,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

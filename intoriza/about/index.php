@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../';
 include($root . 'includes/head.php');
 ?>
@@ -81,7 +81,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">About Us</span>
@@ -105,7 +105,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Story</span>
@@ -118,7 +118,7 @@ include($root . 'includes/head.php');
                     	<div class="row">
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect  v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-sketch"></i></span>
                                         </div>
@@ -131,20 +131,20 @@ include($root . 'includes/head.php');
                             </div>                          
                             <div class="col-lg-4 col-md-6 m-b30">
                                 <div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window"></i></span>
                                         </div>
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">2018</h4>
-                                            <p>We established our production site at 8-km, Sundarâ€“Raiwind Road, Lahore, Pakistan</p>
+                                            <p>We established our production site at 8-km, Sundar–Raiwind Road, Lahore, Pakistan</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 m-b30">
                             	<div class="hover-box-effect v-icon-effect">
-                                    <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
+                                    <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50  bg-white">
                                         <div class="icon-lg site-text-primary m-b20">
                                             <span class="icon-cell site-text-primary"><i class="v-icon flaticon-window-5"></i></span>
                                         </div>
@@ -167,12 +167,12 @@ include($root . 'includes/head.php');
                     <div class="section-content">
                     	<div class="row">
                             <div class="col-lg-12 m-b30">
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                     <h2>What We Bring to Pakistan</h2>
                                 </div>
                                 <ul class="list-check-circle">
-                                    <li><strong>Imported expertise, local manufacturing</strong> – We bring more than two decades of Gusu's R&D, engineering and project experience into the Pakistani market, while manufacturing the envelope locally.</li>
-                                    <li><strong>One-roof solution</strong> – Pak Gusu can support GMP cleanroom projects from:
+                                    <li><strong>Imported expertise, local manufacturing</strong> � We bring more than two decades of Gusu's R&D, engineering and project experience into the Pakistani market, while manufacturing the envelope locally.</li>
+                                    <li><strong>One-roof solution</strong> � Pak Gusu can support GMP cleanroom projects from:
                                         <ul>
                                             <li>Basic concept and GMP layout review</li>
                                             <li>Cleanroom envelope & panel design</li>
@@ -193,7 +193,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Team</span>
@@ -386,3 +386,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../../';
 include($root . 'includes/head.php');
 ?>
@@ -82,7 +82,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">Cleanroom Products</span>
@@ -106,7 +106,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Key Features</span>
@@ -118,7 +118,7 @@ include($root . 'includes/head.php');
                     <div class="section-content">
                     	<div class="row">
                             <div class="col-lg-12 m-b30">
-                                <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
                                     <div class="icon-content text-black">
                                         <ul class="list-angle-right text-left">
                                             <li>Flat, flush-mounted panels that minimise dust traps</li>
@@ -140,7 +140,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -319,3 +319,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

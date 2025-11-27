@@ -30,7 +30,10 @@
      
 <link rel="stylesheet" href="<?php echo $root; ?>plugins/revolution/revolution/css/settings.css"><!-- REVOLUTION SLIDER CSS -->
 <link rel="stylesheet" href="<?php echo $root; ?>plugins/revolution/revolution/css/navigation.css"><!-- REVOLUTION NAVIGATION STYLE -->
+<link rel="stylesheet" href="<?php echo $root; ?>css/aos.css"><!-- AOS ANIMATION STYLE SHEET -->
 
 <!-- GOOGLE FONTS -->
-<link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,800,800i,900" rel="stylesheet"> 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet"> 
 <link href="https://fonts.googleapis.com/css?family=Martel:200,300,400,600,700,800,900" rel="stylesheet"> 

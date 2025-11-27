@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../';
 include($root . 'includes/head.php');
 ?>
@@ -139,7 +139,7 @@ include($root . 'includes/head.php');
                     		<div class="col-lg-6 col-md-12 m-b30">
                             	<div class="index-about3 bg-gray">
                                     <!-- TITLE START -->
-                                    <div class="section-head">
+                                    <div data-aos="fade-down" class="section-head">
                                         <div class="wt-separator-outer separator-left">
                                             <div class="wt-separator">
                                                 <span class="site-text-primary text-uppercase sep-line-one ">Welcome to Pak Gusu</span>
@@ -285,7 +285,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">what you prefer</span>
@@ -420,7 +420,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b20 bg-white">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Recently finished</span>
@@ -521,7 +521,7 @@ include($root . 'includes/head.php');
             <div class="section-full small-device p-t80 p-b50 bg-gray">
 				<div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -619,7 +619,7 @@ include($root . 'includes/head.php');
             <div class="section-full small-device bg-gray p-t80 p-b50">
 				<div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our latest blog</span>
@@ -636,7 +636,7 @@ include($root . 'includes/head.php');
                             <div class="owl-carousel blog-carousel-3">
                             
                                 <div class="item">
-                                    <div class="blog-post latest-blog-1  date-style-1">
+                                    <div data-aos="fade-up" class="blog-post latest-blog-1  date-style-1">
                                         <div class="wt-post-media wt-img-effect zoom-slow">
                                             <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                         </div>
@@ -667,7 +667,7 @@ include($root . 'includes/head.php');
                                 </div>
                                 
                                 <div class="item">
-                                    <div class="blog-post latest-blog-1 date-style-1">
+                                    <div data-aos="fade-up" class="blog-post latest-blog-1 date-style-1">
                                         <div class="wt-post-media wt-img-effect zoom-slow">
                                             <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                         </div>
@@ -698,7 +698,7 @@ include($root . 'includes/head.php');
                                 </div>
                                 
                                 <div class="item">
-                                	<div class="blog-post latest-blog-1  date-style-1">
+                                	<div data-aos="fade-up" class="blog-post latest-blog-1  date-style-1">
                                         <div class="wt-post-media wt-img-effect zoom-slow">
                                             <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                         </div>
@@ -729,7 +729,7 @@ include($root . 'includes/head.php');
                                 </div>
                                 
                                 <div class="item">
-                                    <div class="blog-post latest-blog-1  date-style-1">
+                                    <div data-aos="fade-up" class="blog-post latest-blog-1  date-style-1">
                                         <div class="wt-post-media wt-img-effect zoom-slow">
                                             <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                         </div>
@@ -760,7 +760,7 @@ include($root . 'includes/head.php');
                                 </div>
                                 
                                 <div class="item">
-                                    <div class="blog-post latest-blog-1 date-style-1">
+                                    <div data-aos="fade-up" class="blog-post latest-blog-1 date-style-1">
                                         <div class="wt-post-media wt-img-effect zoom-slow">
                                             <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                         </div>
@@ -791,7 +791,7 @@ include($root . 'includes/head.php');
                                 </div>
                                 
                                 <div class="item">
-                                	<div class="blog-post latest-blog-1  date-style-1">
+                                	<div data-aos="fade-up" class="blog-post latest-blog-1  date-style-1">
                                         <div class="wt-post-media wt-img-effect zoom-slow">
                                             <a href="post-right-sidebar.php"><img src="<?php echo $root; ?>images/blog/latest-blog/pic3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                         </div>
@@ -835,7 +835,7 @@ include($root . 'includes/head.php');
                 <div class="container">
                 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Meet our clients</span>
@@ -901,7 +901,7 @@ include($root . 'includes/head.php');
             <div class="section-full small-device  p-t80 p-b50 bg-gray">
             	<div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Work gallery</span>
@@ -916,7 +916,7 @@ include($root . 'includes/head.php');
                         <!-- COLUMNS 1 -->
                         <div class="stamp masonry-item col-lg-4 col-md-6 m-b40">
                         	<div class="bg-white p-a30 p-b20 stamp-secion-2">
-                            	<h4 class="wt-tilte m-t0">Whatever your style, we’ll help you achieve it.</h4>
+                            	<h4 class="wt-tilte m-t0">Whatever your style, we�ll help you achieve it.</h4>
                                 <p>If you are this going to be use a passage of Lorem Ipsum, you need to be sure isn't anything embarrassing hidden in the middle of text people inhabiting the space for meet their needs.</p>
                             	<div class="filter-wrap">
                                     <ul class="filter-navigation masonry-filter text-uppercase">
@@ -1151,3 +1151,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+

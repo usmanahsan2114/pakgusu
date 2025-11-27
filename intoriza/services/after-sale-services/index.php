@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../../';
 include($root . 'includes/head.php');
 ?>
@@ -82,7 +82,7 @@ include($root . 'includes/head.php');
                             </div>
                     		<div class="col-lg-5 col-md-12 m-b30">
                                 <!-- TITLE START -->
-                                <div class="section-head">
+                                <div data-aos="fade-down" class="section-head">
                                 	<div class="wt-separator-outer separator-left">
                                 		<div class="wt-separator">
                                             <span class="site-text-primary text-uppercase sep-line-one ">Cleanroom Services</span>
@@ -91,7 +91,7 @@ include($root . 'includes/head.php');
                                     <h2>After-Sales Services</h2>
                                 </div>
                                 <!-- TITLE END -->                            
-                                <p>Cleanroom needs change over time – new products, new equipment, or regulatory updates can all require modifications.</p>
+                                <p>Cleanroom needs change over time � new products, new equipment, or regulatory updates can all require modifications.</p>
                                 <p>Pak Gusu remains available after project completion to adjust or relocate panels and doors, add new openings, windows or transfer hatches, expand existing cleanroom areas, and provide technical advice when planning process changes.</p>
                                 <p>Our local presence in Pakistan ensures quicker response times compared to purely imported solutions.</p>
                                  <a href="<?php echo $root; ?>services/index.php" class="site-button m-t15 m-b15">View All Services</a>
@@ -107,7 +107,7 @@ include($root . 'includes/head.php');
             <div class="section-full p-t80 p-b50 bg-gray">
                 <div class="container">
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Support Services</span>
@@ -119,7 +119,7 @@ include($root . 'includes/head.php');
                     <div class="section-content">
                     	<div class="row">
                             <div class="col-lg-12 m-b30">
-                                <div class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
+                                <div data-aos="fade-up" class="wt-icon-box-wraper center p-lr30  p-b50 p-t50 bg-white">
                                     <div class="icon-content text-black">
                                         <p class="m-b20">Pak Gusu remains available after project completion to:</p>
                                         <ul class="list-angle-right text-left">
@@ -143,7 +143,7 @@ include($root . 'includes/head.php');
 				<div class="container">
 
                     <!-- TITLE START -->
-                    <div class="section-head text-center">
+                    <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
                                 <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
@@ -322,3 +322,4 @@ include($root . 'includes/head.php');
     <?php include($root . 'includes/scripts.php'); ?>
 </body>
 </html>
+
