@@ -1,5 +1,8 @@
-<?php
+﻿<?php
 $root = '../';
+$pageTitle = "About Us | Pak Gusu Cleanroom Solutions";
+$pageDescription = "Learn about Pak Gusu, a joint venture bringing 20+ years of global cleanroom expertise to Pakistan. We specialize in high-quality cleanroom panels and construction.";
+$pageKeywords = "about pak gusu, cleanroom company profile, cleanroom experts pakistan, gusu china joint venture";
 include($root . 'includes/head.php');
 ?>
 <body class="footer-fixed">
@@ -137,7 +140,7 @@ include($root . 'includes/head.php');
                                         </div>
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">2018</h4>
-                                            <p>We established our production site at 8-km, Sundar–Raiwind Road, Lahore, Pakistan</p>
+                                            <p>We established our production site at 8-km, Sundarâ€“Raiwind Road, Lahore, Pakistan</p>
                                         </div>
                                     </div>
                                 </div>
@@ -171,8 +174,8 @@ include($root . 'includes/head.php');
                                     <h2>What We Bring to Pakistan</h2>
                                 </div>
                                 <ul class="list-check-circle">
-                                    <li><strong>Imported expertise, local manufacturing</strong> � We bring more than two decades of Gusu's R&D, engineering and project experience into the Pakistani market, while manufacturing the envelope locally.</li>
-                                    <li><strong>One-roof solution</strong> � Pak Gusu can support GMP cleanroom projects from:
+                                    <li><strong>Imported expertise, local manufacturing</strong> – We bring more than two decades of Gusu's R&D, engineering and project experience into the Pakistani market, while manufacturing the envelope locally.</li>
+                                    <li><strong>One-roof solution</strong> – Pak Gusu can support GMP cleanroom projects from:
                                         <ul>
                                             <li>Basic concept and GMP layout review</li>
                                             <li>Cleanroom envelope & panel design</li>
@@ -187,6 +190,60 @@ include($root . 'includes/head.php');
                 </div>  
             </div>   
             <!-- WHAT WE BRING SECTION END --> 
+
+            <!-- WHY CHOOSE US SECTION START -->
+            <div class="section-full bg-gray p-t80 p-b50">
+                <div class="container">
+                    <!-- TITLE START -->
+                    <div class="section-head text-center">
+                        <h2 class="text-uppercase">Why Choose Pak Gusu?</h2>
+                        <div class="wt-separator-outer">
+                            <div class="wt-separator style-square">
+                                <span class="separator-left bg-primary"></span>
+                                <span class="separator-right bg-primary"></span>
+                            </div>
+                        </div>
+                        <p>We combine global expertise with local manufacturing to deliver world-class cleanroom solutions.</p>
+                    </div>
+                    <!-- TITLE END -->
+                    <div class="row">
+                        <div class="col-md-4 col-sm-6 m-b30">
+                            <div class="wt-icon-box-wraper center p-a30 bg-white hover-box-effect">
+                                <div class="icon-lg text-primary m-b20">
+                                    <span class="icon-cell"><i class="flaticon-factory"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h5 class="wt-tilte text-uppercase m-b0">GMP Compliant</h5>
+                                    <p>Our products meet strict GMP standards for pharmaceutical and medical safety.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 m-b30">
+                            <div class="wt-icon-box-wraper center p-a30 bg-white hover-box-effect">
+                                <div class="icon-lg text-primary m-b20">
+                                    <span class="icon-cell"><i class="flaticon-worker"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h5 class="wt-tilte text-uppercase m-b0">Expert Team</h5>
+                                    <p>Backed by 20+ years of experience from GUSU China and local engineering experts.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-6 m-b30">
+                            <div class="wt-icon-box-wraper center p-a30 bg-white hover-box-effect">
+                                <div class="icon-lg text-primary m-b20">
+                                    <span class="icon-cell"><i class="flaticon-settings"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h5 class="wt-tilte text-uppercase m-b0">Turnkey Solutions</h5>
+                                    <p>From design to installation, we handle every aspect of your cleanroom project.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- WHY CHOOSE US SECTION END --> 
             
             <!-- OUR TEAM START -->
             <div class="section-full small-device p-t80 p-b50 bg-white">
@@ -365,22 +422,6 @@ include($root . 'includes/head.php');
                                         <div class="p-a20 text-black wt-icon-box-wraper center">
                                             <div class="counter font-40 m-b5">500</div>
                                             <h4>Expert Engineer</h4>
-                                        </div>                                    	
-                                    </div>                                    
-                                </div>
-
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>   
-            <!-- TESTIMONIAL SECTION END -->  
-                        
-                        
-            
-        </div>
-        <!-- CONTENT END -->
-        <!-- CONTENT END -->
         <?php include($root . 'includes/footer.php'); ?>
     </div>
     <?php include($root . 'includes/scripts.php'); ?>

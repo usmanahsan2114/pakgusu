@@ -1,5 +1,8 @@
-<?php
+﻿<?php
 $root = '../../';
+$pageTitle = "Cleanroom Sandwich Panels | GMP Compliant | Pak Gusu";
+$pageDescription = "High-quality cleanroom sandwich panels (XPS, PU, Rockwool) for pharmaceutical and industrial applications. Manufactured in Pakistan with Gusu China expertise.";
+$pageKeywords = "cleanroom panels, sandwich panels, rockwool panels, pu panels, xps panels, cleanroom partition";
 include($root . 'includes/head.php');
 ?>
 <body class="footer-fixed">
@@ -91,7 +94,7 @@ include($root . 'includes/head.php');
                                     <h2>Cleanroom Panels</h2>
                                 </div>
                                 <!-- TITLE END -->                            
-                                <p>Pak Gusu manufactures cleanroom-grade sandwich panels in Pakistan, using cores and technologies aligned with Gusu China's panel systems � ensuring consistent quality and performance.</p>
+                                <p>Pak Gusu manufactures cleanroom-grade sandwich panels in Pakistan, using cores and technologies aligned with Gusu China's panel systems – ensuring consistent quality and performance.</p>
                                 <p>Our panels are engineered for smooth, easy-to-clean surfaces, airtight and dust-resistant joints, and compatibility with GMP and ISO cleanroom design requirements.</p>
                                  <a href="<?php echo $root; ?>products/index.php" class="site-button m-t15 m-b15">View All Products</a>
                             </div>                            
@@ -181,6 +184,64 @@ include($root . 'includes/head.php');
                 </div>  
             </div>   
             <!-- WHAT WE DO  SECTION END --> 
+
+            <!-- TECHNICAL SPECIFICATIONS SECTION START -->
+            <div class="section-full p-t80 p-b50 bg-white">
+                <div class="container">
+                    <div class="section-head text-center">
+                        <h2 class="text-uppercase">Technical Specifications</h2>
+                        <div class="wt-separator-outer">
+                            <div class="wt-separator style-square">
+                                <span class="separator-left bg-primary"></span>
+                                <span class="separator-right bg-primary"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section-content">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered table-striped">
+                                        <thead>
+                                            <tr>
+                                                <th>Feature</th>
+                                                <th>Specification</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td><strong>Face Material</strong></td>
+                                                <td>Pre-painted Galvanized Steel (PPGI), Stainless Steel (SS304), or HPL</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Core Material</strong></td>
+                                                <td>Rockwool (Fireproof), PU (Insulation), XPS (Lightweight), Honeycomb</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Thickness</strong></td>
+                                                <td>50mm, 75mm, 100mm (Customizable)</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Width</strong></td>
+                                                <td>Standard 980mm / 1180mm</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Connection</strong></td>
+                                                <td>Tongue & Groove / Aluminum Profile System</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Fire Rating</strong></td>
+                                                <td>Class A (Rockwool) / Class B1 (PU/XPS)</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- TECHNICAL SPECIFICATIONS SECTION END --> 
             
             <!-- OUR TEAM START -->
             <div class="section-full small-device p-t80 p-b50 bg-white">

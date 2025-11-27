@@ -1,5 +1,8 @@
 <?php
 $root = '../';
+$pageTitle = "Contact Us | Get a Quote for Cleanroom Projects | Pak Gusu";
+$pageDescription = "Contact Pak Gusu for inquiries about cleanroom panels, construction, and design services. Get a free quote for your pharmaceutical or industrial cleanroom project.";
+$pageKeywords = "contact pak gusu, cleanroom quote, cleanroom inquiry, cleanroom lahore address, cleanroom contact number";
 include($root . 'includes/head.php');
 ?>
 <body class="footer-fixed">

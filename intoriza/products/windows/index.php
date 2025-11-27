@@ -1,5 +1,8 @@
-<?php
+ï»¿<?php
 $root = '../../';
+$pageTitle = "Cleanroom Windows | Double Glazed Flush Windows | Pak Gusu";
+$pageDescription = "Double-glazed cleanroom windows with flush design for easy cleaning and GMP compliance. Silicone sealed for airtight performance.";
+$pageKeywords = "cleanroom windows, double glazed windows, flush windows, gmp windows, pharmaceutical windows";
 include($root . 'includes/head.php');
 ?>
 <body class="footer-fixed">
@@ -92,7 +95,7 @@ include($root . 'includes/head.php');
                                 </div>
                                 <!-- TITLE END -->                            
                                 <p>Pak Gusu supplies <strong>flush, double-glazed cleanroom windows</strong> that integrate seamlessly into our panel systems. Based on Gusu's cleanroom window concepts, the frames are designed for airtightness and easy cleaning.</p>
-                                <p>Our windows feature double-glazed glass with sealed perimeter, flush with the wall surface – no dust-collecting ledges, and silicone-sealed joints to avoid air leakage and particle accumulation.</p>
+                                <p>Our windows feature double-glazed glass with sealed perimeter, flush with the wall surface â€“ no dust-collecting ledges, and silicone-sealed joints to avoid air leakage and particle accumulation.</p>
                                  <a href="<?php echo $root; ?>products/index.php" class="site-button m-t15 m-b15">View All Products</a>
                             </div>                            
                         </div>
@@ -127,7 +130,7 @@ include($root . 'includes/head.php');
                                             <h4 class="wt-tilte m-b25">Features</h4>
                                             <ul class="list-angle-right text-left">
                                                 <li>Double-glazed glass with sealed perimeter</li>
-                                                <li>Flush with the wall surface – no dust-collecting ledges</li>
+                                                <li>Flush with the wall surface â€“ no dust-collecting ledges</li>
                                                 <li>Silicone-sealed joints to avoid air leakage and particle accumulation</li>
                                                 <li>Compatible with panel thicknesses used in Pharmaceutical and healthcare facilities</li>
                                             </ul>
@@ -159,180 +162,60 @@ include($root . 'includes/head.php');
                 </div>  
             </div>   
             <!-- WHAT WE DO  SECTION END --> 
-            
-            <!-- OUR TEAM START -->
-            <div class="section-full small-device p-t80 p-b50 bg-white">
-				<div class="container">
 
-                    <!-- TITLE START -->
-                    <div data-aos="fade-down" class="section-head text-center">
-                        <div class="wt-separator-outer separator-center">
-                            <div class="wt-separator">
-                                <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
-                            </div>
-                        </div>
-                        <h2>Our Team</h2>
-                    </div>
-                    <!-- TITLE END --> 
-     
-                    <!-- IMAGE CAROUSEL START -->
-                    <div class="row d-flex justify-content-center">
-                        <div class="col-lg-4 col-md-6 m-b30">
-                            <div class="our-team-one">
-                                    <div class="team-bg">
-                                        <h4>Jack Semper</h4>
-                                    </div>
-                                    <div class="team-img">
-                                        <img src="<?php echo $root; ?>images/our-team5/pic1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan" />
-                                        <ul class="list-unstyled">
-                                            <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                            <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                            <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                            <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                        </ul>
-                                    </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 m-b30">
-                            <div class="our-team-one">
-                                    <div class="team-bg">
-                                    <h4>Philip Wilson</h4>
-                                    </div>
-                                    <div class="team-img">
-                                        <img src="<?php echo $root; ?>images/our-team5/pic2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan" />
-                                        <ul class="list-unstyled">
-                                        <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                    </ul>
-                                    </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 m-b30">
-                            <div class="our-team-one">
-                                    <div class="team-bg">
-                                    <h4>Amanda Rich</h4>
-                                    </div>
-                                    <div class="team-img">
-                                        <img src="<?php echo $root; ?>images/our-team5/pic3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan" />
-                                        <ul class="list-unstyled">
-                                        <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                    </ul>
-                                    </div>
+            <!-- WINDOW SPECIFICATIONS SECTION START -->
+            <div class="section-full p-t80 p-b50 bg-white">
+                <div class="container">
+                    <div class="section-head text-center">
+                        <h2 class="text-uppercase">Technical Specifications</h2>
+                        <div class="wt-separator-outer">
+                            <div class="wt-separator style-square">
+                                <span class="separator-left bg-primary"></span>
+                                <span class="separator-right bg-primary"></span>
                             </div>
                         </div>
                     </div>
-
-                </div>
-                
-             </div>   
-            <!-- OUR TEAM END -->
-                        
-                                  
-            <!-- TESTIMONIAL SECTION START -->
-            <div class="section-full small-device  p-t80 p-b50 bg-white bg-repeat" style="background-image:url(<?php echo $root; ?>images/background/ptn-1.png)">
-				<div class="container">
                     <div class="section-content">
-                    	<div class="row">
-                        	<div class="col-lg-7 col-md-12 m-b30">
-                                <div class="owl-carousel testimonial-home owl-btn-top-right">
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="<?php echo $root; ?>images/testimonials/pic1.jpg" width="132" height="132" alt="Pak Gusu - Cleanroom Manufacturer Pakistan">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="<?php echo $root; ?>images/testimonials/pic2.jpg" width="132" height="132" alt="Pak Gusu - Cleanroom Manufacturer Pakistan">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="<?php echo $root; ?>images/testimonials/pic3.jpg" width="132" height="132" alt="Pak Gusu - Cleanroom Manufacturer Pakistan">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
-                                    </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered table-striped">
+                                        <thead>
+                                            <tr>
+                                                <th>Feature</th>
+                                                <th>Specification</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td><strong>Glass Type</strong></td>
+                                                <td>Double-glazed Tempered Glass (5mm + 5mm)</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Frame Material</strong></td>
+                                                <td>Aluminum Alloy / Stainless Steel</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Thickness</strong></td>
+                                                <td>Matches Panel Thickness (50mm / 75mm / 100mm)</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Sealing</strong></td>
+                                                <td>Silicone Sealant / Desiccant filled spacer</td>
+                                            </tr>
+                                            <tr>
+                                                <td><strong>Design</strong></td>
+                                                <td>Flush mount on both sides</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                 </div>
                             </div>
-                            <div class="col-lg-5 col-md-12 m-b30">
-                            	<div class="counter-section-one">
-                                	<div class="counter-sec-top">
-                                        <div class="p-a20 text-black wt-icon-box-wraper center">
-                                            <div class="counter font-40 m-b5">250</div>
-                                            <h4>Projects</h4>
-                                        </div>                                    	
-                                    </div>
-                                	<div class="counter-sec-bottom">
-                                        <div class="p-a20 text-black wt-icon-box-wraper center">
-                                            <div class="counter font-40 m-b5">500</div>
-                                            <h4>Expert Engineer</h4>
-                                        </div>                                    	
-                                    </div>                                    
-                                </div>
-
-                            </div>
-                        </div> 
+                        </div>
                     </div>
                 </div>
-            </div>   
-            <!-- TESTIMONIAL SECTION END -->  
+            </div>
+            <!-- WINDOW SPECIFICATIONS SECTION END -->  
                         
                         
             

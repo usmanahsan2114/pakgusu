@@ -1,17 +1,12 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-<?php 
-$root = './'; 
-$pageTitle = "Cleanroom Manufacturer in Pakistan | Pak Gusu Cleanroom Solutions";
-$pageDescription = "Leading cleanroom manufacturer in Pakistan offering GMP-compliant panels, doors, windows, and turnkey cleanroom construction services.";
-$pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroom windows, GMP cleanroom, pharmaceutical cleanroom construction";
-?>
+<?php $root = './'; ?>
     <?php include('includes/head.php'); ?>
 </head>
 <body id="bg">
     <div class="page-wraper">
-        <?php // include('includes/contact_panel.php'); ?>
+        <?php include('includes/contact_panel.php'); ?>
         <?php include('includes/header.php'); ?>
         <!-- CONTENT START -->
         <div class="page-content"> 

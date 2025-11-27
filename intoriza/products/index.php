@@ -1,5 +1,8 @@
 <?php
 $root = '../';
+$pageTitle = "Cleanroom Products | Panels, Doors, Windows & Lights | Pak Gusu";
+$pageDescription = "Explore our wide range of cleanroom products including sandwich panels, steel doors, transfer windows, and cleanroom LED lights. GMP compliant and high quality.";
+$pageKeywords = "cleanroom products, sandwich panels, cleanroom doors, transfer windows, cleanroom lights, pass box, air shower";
 include($root . 'includes/head.php');
 ?>
 <body class="footer-fixed">

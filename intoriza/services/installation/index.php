@@ -1,5 +1,8 @@
-<?php
+﻿<?php
 $root = '../../';
+$pageTitle = "Cleanroom Installation Services | Professional & Certified | Pak Gusu";
+$pageDescription = "Professional cleanroom installation services by Pak Gusu. Expert technicians for panel installation, door fitting, and sealing. Ensuring airtightness and compliance.";
+$pageKeywords = "cleanroom installation, cleanroom technicians, panel installation, cleanroom sealing, airtightness testing";
 include($root . 'includes/head.php');
 ?>
 <body class="footer-fixed">
@@ -136,180 +139,92 @@ include($root . 'includes/head.php');
                 </div>  
             </div>   
             <!-- WHAT WE DO  SECTION END --> 
-            
-            <!-- OUR TEAM START -->
-            <div class="section-full small-device p-t80 p-b50 bg-white">
-				<div class="container">
 
-                    <!-- TITLE START -->
-                    <div data-aos="fade-down" class="section-head text-center">
-                        <div class="wt-separator-outer separator-center">
-                            <div class="wt-separator">
-                                <span class="site-text-primary text-uppercase sep-line-one ">Our Best Team</span>
-                            </div>
-                        </div>
-                        <h2>Our Team</h2>
-                    </div>
-                    <!-- TITLE END --> 
-     
-                    <!-- IMAGE CAROUSEL START -->
-                    <div class="row d-flex justify-content-center">
-                        <div class="col-lg-4 col-md-6 m-b30">
-                            <div class="our-team-one">
-                                    <div class="team-bg">
-                                        <h4>Jack Semper</h4>
-                                    </div>
-                                    <div class="team-img">
-                                        <img src="<?php echo $root; ?>images/our-team5/pic1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan" />
-                                        <ul class="list-unstyled">
-                                            <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                            <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                            <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                            <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                        </ul>
-                                    </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 m-b30">
-                            <div class="our-team-one">
-                                    <div class="team-bg">
-                                    <h4>Philip Wilson</h4>
-                                    </div>
-                                    <div class="team-img">
-                                        <img src="<?php echo $root; ?>images/our-team5/pic2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan" />
-                                        <ul class="list-unstyled">
-                                        <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                    </ul>
-                                    </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 m-b30">
-                            <div class="our-team-one">
-                                    <div class="team-bg">
-                                    <h4>Amanda Rich</h4>
-                                    </div>
-                                    <div class="team-img">
-                                        <img src="<?php echo $root; ?>images/our-team5/pic3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan" />
-                                        <ul class="list-unstyled">
-                                        <li><a href="javascript:void(0);" class="fa fa-google"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-rss"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
-                                        <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
-                                    </ul>
-                                    </div>
+            <!-- INSTALLATION SERVICES SECTION START -->
+            <div class="section-full p-t80 p-b50 bg-white">
+                <div class="container">
+                    <div class="section-head text-center">
+                        <h2 class="text-uppercase">Our Installation Expertise</h2>
+                        <div class="wt-separator-outer">
+                            <div class="wt-separator style-square">
+                                <span class="separator-left bg-primary"></span>
+                                <span class="separator-right bg-primary"></span>
                             </div>
                         </div>
                     </div>
-
-                </div>
-                
-             </div>   
-            <!-- OUR TEAM END -->
-                        
-                                  
-            <!-- TESTIMONIAL SECTION START -->
-            <div class="section-full small-device  p-t80 p-b50 bg-white bg-repeat" style="background-image:url(<?php echo $root; ?>images/background/ptn-1.png)">
-				<div class="container">
                     <div class="section-content">
-                    	<div class="row">
-                        	<div class="col-lg-7 col-md-12 m-b30">
-                                <div class="owl-carousel testimonial-home owl-btn-top-right">
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="<?php echo $root; ?>images/testimonials/pic1.jpg" width="132" height="132" alt="Pak Gusu - Cleanroom Manufacturer Pakistan">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6 m-b30">
+                                <div class="wt-icon-box-wraper center p-a30 bg-gray">
+                                    <div class="icon-md site-text-primary m-b20">
+                                        <span class="icon-cell"><i class="flaticon-worker"></i></span>
                                     </div>
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="<?php echo $root; ?>images/testimonials/pic2.jpg" width="132" height="132" alt="Pak Gusu - Cleanroom Manufacturer Pakistan">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="<?php echo $root; ?>images/testimonials/pic3.jpg" width="132" height="132" alt="Pak Gusu - Cleanroom Manufacturer Pakistan">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
+                                    <div class="icon-content">
+                                        <h5 class="wt-tilte text-uppercase m-b0">Expert Team</h5>
+                                        <p>Highly trained technicians and supervisors with extensive experience in cleanroom assembly.</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-5 col-md-12 m-b30">
-                            	<div class="counter-section-one">
-                                	<div class="counter-sec-top">
-                                        <div class="p-a20 text-black wt-icon-box-wraper center">
-                                            <div class="counter font-40 m-b5">250</div>
-                                            <h4>Projects</h4>
-                                        </div>                                    	
+                            <div class="col-md-4 col-sm-6 m-b30">
+                                <div class="wt-icon-box-wraper center p-a30 bg-gray">
+                                    <div class="icon-md site-text-primary m-b20">
+                                        <span class="icon-cell"><i class="flaticon-conveyor"></i></span>
                                     </div>
-                                	<div class="counter-sec-bottom">
-                                        <div class="p-a20 text-black wt-icon-box-wraper center">
-                                            <div class="counter font-40 m-b5">500</div>
-                                            <h4>Expert Engineer</h4>
-                                        </div>                                    	
-                                    </div>                                    
+                                    <div class="icon-content">
+                                        <h5 class="wt-tilte text-uppercase m-b0">Panel Assembly</h5>
+                                        <p>Precision installation of wall and ceiling panels, ensuring perfect alignment and structural integrity.</p>
+                                    </div>
                                 </div>
-
                             </div>
-                        </div> 
+                            <div class="col-md-4 col-sm-6 m-b30">
+                                <div class="wt-icon-box-wraper center p-a30 bg-gray">
+                                    <div class="icon-md site-text-primary m-b20">
+                                        <span class="icon-cell"><i class="flaticon-repair"></i></span>
+                                    </div>
+                                    <div class="icon-content">
+                                        <h5 class="wt-tilte text-uppercase m-b0">Sealing & Gasketing</h5>
+                                        <p>Application of high-quality sealants and gaskets to guarantee airtightness and contamination control.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 m-b30">
+                                <div class="wt-icon-box-wraper center p-a30 bg-gray">
+                                    <div class="icon-md site-text-primary m-b20">
+                                        <span class="icon-cell"><i class="flaticon-window"></i></span>
+                                    </div>
+                                    <div class="icon-content">
+                                        <h5 class="wt-tilte text-uppercase m-b0">Door & Window Fitting</h5>
+                                        <p>Seamless integration of doors, windows, and pass boxes into the cleanroom structure.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 m-b30">
+                                <div class="wt-icon-box-wraper center p-a30 bg-gray">
+                                    <div class="icon-md site-text-primary m-b20">
+                                        <span class="icon-cell"><i class="flaticon-trophy"></i></span>
+                                    </div>
+                                    <div class="icon-content">
+                                        <h5 class="wt-tilte text-uppercase m-b0">Quality Assurance</h5>
+                                        <p>Rigorous checks for alignment, operation, and finish quality throughout the installation process.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 m-b30">
+                                <div class="wt-icon-box-wraper center p-a30 bg-gray">
+                                    <div class="icon-md site-text-primary m-b20">
+                                        <span class="icon-cell"><i class="flaticon-time"></i></span>
+                                    </div>
+                                    <div class="icon-content">
+                                        <h5 class="wt-tilte text-uppercase m-b0">Timely Execution</h5>
+                                        <p>Efficient project management to ensure installation is completed on schedule and within budget.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>   
-            <!-- TESTIMONIAL SECTION END -->  
+            </div>
+            <!-- INSTALLATION SERVICES SECTION END -->  
                         
                         
             

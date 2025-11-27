@@ -10,12 +10,12 @@
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo $root; ?>images/favicon.png" />
 
 <!-- PAGE TITLE HERE -->
-<title>Cleanroom Manufacturer in Pakistan | Pak Gusu Cleanroom Solutions</title>
+<title><?php echo isset($pageTitle) ? $pageTitle : 'Cleanroom Manufacturer in Pakistan | Pak Gusu Cleanroom Solutions'; ?></title>
 
 <!-- MOBILE SPECIFIC -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Pak Gusu designs, manufactures, and installs GMP-compliant cleanroom panels and accessories in Pakistan, powered by GUSU China's 20+ years of global cleanroom expertise." />
-<meta name="keywords" content="cleanroom manufacturer pakistan, cleanroom panels, GMP cleanroom, cleanroom construction, pharmaceutical cleanroom" />
+<meta name="description" content="<?php echo isset($pageDescription) ? $pageDescription : 'Pak Gusu designs, manufactures, and installs GMP-compliant cleanroom panels and accessories in Pakistan, powered by GUSU China\'s 20+ years of global cleanroom expertise.'; ?>" />
+<meta name="keywords" content="<?php echo isset($pageKeywords) ? $pageKeywords : 'cleanroom manufacturer pakistan, cleanroom panels, GMP cleanroom, cleanroom construction, pharmaceutical cleanroom'; ?>" />
 
 <link rel="stylesheet" href="<?php echo $root; ?>css/bootstrap.min.css"><!-- BOOTSTRAP STYLE SHEET -->
 <link rel="stylesheet" href="<?php echo $root; ?>css/fontawesome/css/font-awesome.min.css" /><!-- FONTAWESOME STYLE SHEET -->

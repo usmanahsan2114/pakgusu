@@ -1,5 +1,8 @@
-<?php
+﻿<?php
 $root = '../';
+$pageTitle = "Cleanroom Services | Design, Construction & Installation | Pak Gusu";
+$pageDescription = "Comprehensive cleanroom services in Pakistan: Planning & Design, Construction, Installation, and After-Sales Support. Your partner for turnkey cleanroom solutions.";
+$pageKeywords = "cleanroom services, cleanroom design, cleanroom installation, cleanroom construction, turnkey cleanroom projects";
 include($root . 'includes/head.php');
 ?>
 <body class="footer-fixed">
@@ -90,21 +93,8 @@ include($root . 'includes/head.php');
                                     <h2>Cleanroom Services</h2>
                                 </div>
                                 <!-- TITLE END -->                            
-                                <p>Pak Gusu is more than a product supplier � we act as a project partner throughout the life cycle of your cleanroom.</p>
+                                <p>Pak Gusu is more than a product supplier – we act as a project partner throughout the life cycle of your cleanroom.</p>
                                 <p>We offer comprehensive services from initial planning through design, construction, installation, and ongoing after-sales support to ensure your cleanroom meets all GMP and ISO requirements.</p>
-                                 <a href="<?php echo $root; ?>contact/index.php" class="site-button m-t15 m-b15">Contact Us</a>
-                            </div>                            
-                        </div>
-                        
-                    </div>
-                </div>
-            </div>   
-            <!-- WELCOME  SECTION END --> 
-
-            <!-- WHAT WE DO SECTION START -->
-            <div class="section-full p-t80 p-b50 bg-gray">
-                <div class="container">
-                    <!-- TITLE START -->
                     <div data-aos="fade-down" class="section-head text-center">
                         <div class="wt-separator-outer separator-center">
                             <div class="wt-separator">
@@ -181,6 +171,69 @@ include($root . 'includes/head.php');
                 </div>  
             </div>   
             <!-- WHAT WE DO  SECTION END --> 
+
+            <!-- OUR PROCESS SECTION START -->
+            <div class="section-full bg-gray p-t80 p-b50">
+                <div class="container">
+                    <div class="section-head text-center">
+                        <h2 class="text-uppercase">Our Process</h2>
+                        <div class="wt-separator-outer">
+                            <div class="wt-separator style-square">
+                                <span class="separator-left bg-primary"></span>
+                                <span class="separator-right bg-primary"></span>
+                            </div>
+                        </div>
+                        <p>A streamlined approach to delivering your cleanroom project on time and within budget.</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 m-b30">
+                            <div class="wt-icon-box-wraper center p-a30 bg-white hover-box-effect">
+                                <div class="icon-lg text-primary m-b20">
+                                    <span class="icon-cell"><i class="flaticon-sketch"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h5 class="wt-tilte text-uppercase m-b0">1. Consultation</h5>
+                                    <p>We assess your requirements and regulatory needs.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 m-b30">
+                            <div class="wt-icon-box-wraper center p-a30 bg-white hover-box-effect">
+                                <div class="icon-lg text-primary m-b20">
+                                    <span class="icon-cell"><i class="flaticon-vector"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h5 class="wt-tilte text-uppercase m-b0">2. Design</h5>
+                                    <p>Detailed GMP-compliant layouts and engineering.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 m-b30">
+                            <div class="wt-icon-box-wraper center p-a30 bg-white hover-box-effect">
+                                <div class="icon-lg text-primary m-b20">
+                                    <span class="icon-cell"><i class="flaticon-factory"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h5 class="wt-tilte text-uppercase m-b0">3. Manufacturing</h5>
+                                    <p>Precision production of panels and components.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 m-b30">
+                            <div class="wt-icon-box-wraper center p-a30 bg-white hover-box-effect">
+                                <div class="icon-lg text-primary m-b20">
+                                    <span class="icon-cell"><i class="flaticon-conveyor"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h5 class="wt-tilte text-uppercase m-b0">4. Installation</h5>
+                                    <p>Expert on-site assembly and validation support.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- OUR PROCESS SECTION END --> 
             
             <!-- OUR TEAM START -->
             <div class="section-full small-device p-t80 p-b50 bg-white">
