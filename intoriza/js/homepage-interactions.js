@@ -42,14 +42,14 @@
             particlesJS('particles-js', {
                 particles: {
                     number: {
-                        value: 80,
+                        value: 60,
                         density: {
                             enable: true,
                             value_area: 800
                         }
                     },
                     color: {
-                        value: '#ffffff'
+                        value: '#29afe3'
                     },
                     shape: {
                         type: 'circle',
@@ -59,21 +59,21 @@
                         }
                     },
                     opacity: {
-                        value: 0.5,
-                        random: false,
+                        value: 0.3,
+                        random: true,
                         anim: {
-                            enable: false,
+                            enable: true,
                             speed: 1,
                             opacity_min: 0.1,
                             sync: false
                         }
                     },
                     size: {
-                        value: 3,
+                        value: 4,
                         random: true,
                         anim: {
-                            enable: false,
-                            speed: 40,
+                            enable: true,
+                            speed: 2,
                             size_min: 0.1,
                             sync: false
                         }
@@ -81,20 +81,20 @@
                     line_linked: {
                         enable: true,
                         distance: 150,
-                        color: '#ffffff',
-                        opacity: 0.4,
+                        color: '#004685',
+                        opacity: 0.2,
                         width: 1
                     },
                     move: {
                         enable: true,
-                        speed: 2,
+                        speed: 1.5,
                         direction: 'none',
-                        random: false,
+                        random: true,
                         straight: false,
                         out_mode: 'out',
                         bounce: false,
                         attract: {
-                            enable: false,
+                            enable: true,
                             rotateX: 600,
                             rotateY: 1200
                         }
@@ -117,7 +117,7 @@
                         grab: {
                             distance: 140,
                             line_linked: {
-                                opacity: 1
+                                opacity: 0.5
                             }
                         },
                         push: {
@@ -406,6 +406,63 @@
         // Add Google Analytics or other tracking here
     });
 
+    // ==================== SVG WAVE GENERATOR ====================
+    function addWaveDivider(sectionSelector, position = 'bottom', fillColor = '#ffffff') {
+        const sections = document.querySelectorAll(sectionSelector);
+        sections.forEach(section => {
+            if (!section.querySelector('.wave-divider')) {
+                const waveDiv = document.createElement('div');
+                waveDiv.className = position === 'top' ? 'wave-divider-top' : 'wave-divider';
+                waveDiv.innerHTML = `
+                    <svg viewBox="0 0 1200 120" preserveAspectRatio="none" class="wave-animated">
+                        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="${fillColor}"></path>
+                    </svg>
+                `;
+                section.appendChild(waveDiv);
+                section.style.position = 'relative';
+            }
+        });
+    }
+
+    // ==================== FLOATING SHAPES GENERATOR ====================
+    function addFloatingShapes(sectionSelector) {
+        const sections = document.querySelectorAll(sectionSelector);
+        sections.forEach(section => {
+            if (!section.querySelector('.floating-shapes')) {
+                const shapesContainer = document.createElement('div');
+                shapesContainer.className = 'floating-shapes';
+
+                // Create 5 random shapes
+                for (let i = 0; i < 5; i++) {
+                    const shape = document.createElement('div');
+                    const shapeType = ['shape-circle', 'shape-square'][Math.floor(Math.random() * 2)];
+                    shape.className = `shape ${shapeType}`;
+                    shapesContainer.appendChild(shape);
+                }
+
+                section.style.position = 'relative';
+                section.insertBefore(shapesContainer, section.firstChild);
+                section.classList.add('section-with-shapes');
+            }
+        });
+    }
+
+    // ==================== AUTO-ADD WAVES AND SHAPES ====================
+    $(document).ready(function () {
+        // Add wave dividers to sections
+        addWaveDivider('.section-full.bg-white', 'bottom', '#f8f9fa');
+        addWaveDivider('.section-full.bg-gray', 'bottom', '#ffffff');
+
+        // Add floating shapes to specific sections
+        addFloatingShapes('.section-full.bg-white');
+        addFloatingShapes('.section-full.bg-gray');
+
+        // Add shapes to stats section
+        if ($('.stats-counter-section').length) {
+            addFloatingShapes('.stats-counter-section');
+        }
+    });
+
 })(jQuery);
 
 // ==================== VANILLA JS ENHANCEMENTS ====================
@@ -422,7 +479,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Prevent FOUC (Flash of Unstyled Content)
     document.body.style.opacity = '1';
 
-    // Console branding
-    console.log('%c Pak Gusu Cleanroom Solutions ', 'background: #FF6B35; color: white; font-size: 16px; padding: 10px;');
-    console.log('%c Website Enhanced by Modern UI/UX ', 'background: #333; color: white; font-size: 12px; padding: 5px;');
+    // Console branding - Blue Theme
+    console.log('%c Pak Gusu Cleanroom Solutions ', 'background: #29afe3; color: white; font-size: 16px; padding: 10px; font-weight: bold;');
+    console.log('%c Website Enhanced with Modern Blue Theme ', 'background: #004685; color: white; font-size: 12px; padding: 5px;');
+    console.log('%c Features: Animated SVG Waves | Floating Shapes | Particles.js | Glassmorphism ', 'background: #333; color: #29afe3; font-size: 10px; padding: 5px;');
 });
