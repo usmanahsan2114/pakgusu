@@ -50,3 +50,6 @@
 <!-- CUSTOM HOMEPAGE INTERACTIONS -->
 <script src="<?php echo $root; ?>js/homepage-interactions.js"></script>
 
+<!-- INTERACTIVE ENHANCEMENTS -->
+<script src="<?php echo $root; ?>js/interactive-enhancements.js"></script>
+

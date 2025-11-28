@@ -696,7 +696,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                         
                         <!-- COLUMNS 2 --> 
                         <div class="item">
-                            <div class="line-filter-outer bg-cover" style="background-image:url(../images/project/2.jpg);">
+                            <div class="line-filter-outer bg-cover" style="background-image:url(images/project/2.jpg);">
                                 <div class="hover-effect-1">
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Hospitals & Healthcare</h4>
@@ -709,7 +709,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                         
                         <!-- COLUMNS 3 --> 
                         <div class="item">
-                            <div class="line-filter-outer bg-cover" style="background-image:url(../images/project/3.jpg);">
+                            <div class="line-filter-outer bg-cover" style="background-image:url(images/project/3.jpg);">
                                 <div class="hover-effect-1">
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Food Industry</h4>
@@ -722,7 +722,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                         
                         <!-- COLUMNS 4 --> 
                         <div class="item">
-                            <div class="line-filter-outer bg-cover" style="background-image:url(../images/project/4.jpg);">
+                            <div class="line-filter-outer bg-cover" style="background-image:url(images/project/4.jpg);">
                                 <div class="hover-effect-1">
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Electronics & Assembly</h4>
@@ -735,7 +735,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                         
                         <!-- COLUMNS 5 --> 
                         <div class="item">
-                            <div class="line-filter-outer bg-cover" style="background-image:url(../images/project/5.jpg);">
+                            <div class="line-filter-outer bg-cover" style="background-image:url(images/project/5.jpg);">
                                 <div class="hover-effect-1">
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Laboratories</h4>
@@ -748,7 +748,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                         
                         <!-- COLUMNS 6 --> 
                         <div class="item">
-                            <div class="line-filter-outer bg-cover" style="background-image:url(../images/project/6.jpg);">
+                            <div class="line-filter-outer bg-cover" style="background-image:url(images/project/6.jpg);">
                                 <div class="hover-effect-1">
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Medical & Surgical Devices</h4>
