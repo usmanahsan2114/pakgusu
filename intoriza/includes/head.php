@@ -34,6 +34,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" /><!-- LIGHTBOX STYLE -->
 <link rel="stylesheet" href="<?php echo $root; ?>css/custom-homepage.css"><!-- CUSTOM HOMEPAGE ENHANCEMENTS -->
 <link rel="stylesheet" href="<?php echo $root; ?>css/interactive-enhancements.css"><!-- INTERACTIVE ENHANCEMENTS -->
+<link rel="stylesheet" href="<?php echo $root; ?>css/dynamic-backgrounds.css"><!-- DYNAMIC BACKGROUNDS -->
 
 <!-- GOOGLE FONTS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">

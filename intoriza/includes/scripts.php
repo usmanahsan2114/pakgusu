@@ -53,3 +53,6 @@
 <!-- INTERACTIVE ENHANCEMENTS -->
 <script src="<?php echo $root; ?>js/interactive-enhancements.js"></script>
 
+<!-- DYNAMIC BACKGROUNDS -->
+<script src="<?php echo $root; ?>js/dynamic-backgrounds.js"></script>
+

@@ -1,0 +1,643 @@
+/* ================================================
+   DYNAMIC ANIMATED BACKGROUNDS - EXTREME EDITION
+   Multiple Moving Parts for Pak Gusu Homepage
+   ================================================ */
+
+/* ================== MULTI-LAYER ANIMATED WAVES ================== */
+
+.wave-bg-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.wave-layer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200%;
+    height: 100%;
+    background-repeat: repeat-x;
+    background-position: 0 bottom;
+    background-size: 50% 100px;
+}
+
+.wave-layer-1 {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.4,13.08,36.15-6,69.85-17.84,104.45-29.34C989.49,25,1113-14.29,1200,52.47V0Z' opacity='.15' fill='%2329afe3'/%3E%3C/svg%3E");
+    animation: wave-animation-1 20s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+    opacity: 0.3;
+}
+
+.wave-layer-2 {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0,0V15.81C13,36.92,27.64,56.86,47.69,72.05,99.41,111.27,165,111,224.58,91.58c31.15-10.15,60.09-26.07,89.67-39.8,40.92-19,84.73-46,130.83-49.67,36.26-2.85,70.9,9.42,98.6,31.56,31.77,25.39,62.32,62,103.63,73,40.44,10.79,81.35-6.69,119.13-24.28s75.16-39,116.92-43.05c59.73-5.85,113.28,22.88,168.9,38.84,30.2,8.66,59,6.17,87.09-7.5,22.43-10.89,48-26.93,60.65-49.24V0Z' opacity='.2' fill='%23004685'/%3E%3C/svg%3E");
+    animation: wave-animation-2 25s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+    opacity: 0.25;
+}
+
+.wave-layer-3 {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z' fill='%2329afe3' opacity='.3'/%3E%3C/svg%3E");
+    animation: wave-animation-3 30s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+    opacity: 0.2;
+}
+
+@keyframes wave-animation-1 {
+    0% {
+        transform: translateX(0) translateZ(0) scaleY(1);
+    }
+
+    50% {
+        transform: translateX(-25%) translateZ(0) scaleY(0.85);
+    }
+
+    100% {
+        transform: translateX(-50%) translateZ(0) scaleY(1);
+    }
+}
+
+@keyframes wave-animation-2 {
+    0% {
+        transform: translateX(-50%) translateZ(0) scaleY(1);
+    }
+
+    50% {
+        transform: translateX(-25%) translateZ(0) scaleY(1.1);
+    }
+
+    100% {
+        transform: translateX(0) translateZ(0) scaleY(1);
+    }
+}
+
+@keyframes wave-animation-3 {
+    0% {
+        transform: translateX(-25%) translateZ(0) scaleY(1);
+    }
+
+    50% {
+        transform: translateX(0) translateZ(0) scaleY(0.9);
+    }
+
+    100% {
+        transform: translateX(-50%) translateZ(0) scaleY(1);
+    }
+}
+
+/* ================== FLOATING GRADIENT ORBS ================== */
+
+.floating-orbs {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(60px);
+    opacity: 0.4;
+    animation: float-orb 20s ease-in-out infinite;
+}
+
+.orb-1 {
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, #29afe3, transparent);
+    top: 10%;
+    left: -10%;
+    animation-delay: 0s;
+    animation-duration: 25s;
+}
+
+.orb-2 {
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, #004685, transparent);
+    top: 50%;
+    right: -15%;
+    animation-delay: 5s;
+    animation-duration: 30s;
+}
+
+.orb-3 {
+    width: 250px;
+    height: 250px;
+    background: radial-gradient(circle, #1a8bb5, transparent);
+    bottom: 20%;
+    left: 20%;
+    animation-delay: 10s;
+    animation-duration: 28s;
+}
+
+.orb-4 {
+    width: 350px;
+    height: 350px;
+    background: radial-gradient(circle, #29afe3, transparent);
+    top: 70%;
+    right: 30%;
+    animation-delay: 15s;
+    animation-duration: 35s;
+}
+
+@keyframes float-orb {
+
+    0%,
+    100% {
+        transform: translate(0, 0) scale(1);
+    }
+
+    25% {
+        transform: translate(50px, -50px) scale(1.1);
+    }
+
+    50% {
+        transform: translate(-30px, 30px) scale(0.9);
+    }
+
+    75% {
+        transform: translate(40px, 20px) scale(1.05);
+    }
+}
+
+/* ================== ANIMATED GEOMETRIC SHAPES ================== */
+
+.geometric-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.geo-shape {
+    position: absolute;
+    opacity: 0.08;
+}
+
+.geo-triangle {
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 173px solid #29afe3;
+    animation: rotate-slow 40s linear infinite, float-vertical 15s ease-in-out infinite;
+}
+
+.geo-square {
+    width: 120px;
+    height: 120px;
+    background: #004685;
+    animation: rotate-medium 30s linear infinite, float-diagonal 20s ease-in-out infinite;
+}
+
+.geo-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #1a8bb5;
+    animation: pulse-scale 25s ease-in-out infinite, float-horizontal 18s ease-in-out infinite;
+}
+
+.geo-hexagon {
+    width: 100px;
+    height: 57.74px;
+    background: #29afe3;
+    position: relative;
+    animation: rotate-fast 20s linear infinite, float-circular 22s ease-in-out infinite;
+}
+
+.geo-hexagon::before {
+    content: "";
+    position: absolute;
+    top: -28.87px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 28.87px solid #29afe3;
+}
+
+.geo-hexagon::after {
+    content: "";
+    position: absolute;
+    bottom: -28.87px;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 28.87px solid #29afe3;
+}
+
+@keyframes rotate-slow {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rotate-medium {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(-360deg);
+    }
+}
+
+@keyframes rotate-fast {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes float-vertical {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-100px);
+    }
+}
+
+@keyframes float-horizontal {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(100px);
+    }
+}
+
+@keyframes float-diagonal {
+
+    0%,
+    100% {
+        transform: translate(0, 0);
+    }
+
+    50% {
+        transform: translate(80px, -80px);
+    }
+}
+
+@keyframes float-circular {
+    0% {
+        transform: translate(0, 0);
+    }
+
+    25% {
+        transform: translate(50px, -50px);
+    }
+
+    50% {
+        transform: translate(0, -100px);
+    }
+
+    75% {
+        transform: translate(-50px, -50px);
+    }
+
+    100% {
+        transform: translate(0, 0);
+    }
+}
+
+@keyframes pulse-scale {
+
+    0%,
+    100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.2);
+    }
+}
+
+/* ================== ANIMATED BLOB SHAPES ================== */
+
+.blob-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.blob {
+    position: absolute;
+    opacity: 0.15;
+    filter: blur(40px);
+}
+
+.blob-1 {
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(135deg, #29afe3, #004685);
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    top: -10%;
+    left: -10%;
+    animation: blob-morph-1 15s ease-in-out infinite, blob-float-1 20s ease-in-out infinite;
+}
+
+.blob-2 {
+    width: 350px;
+    height: 350px;
+    background: linear-gradient(135deg, #004685, #1a8bb5);
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+    bottom: -10%;
+    right: -10%;
+    animation: blob-morph-2 18s ease-in-out infinite, blob-float-2 25s ease-in-out infinite;
+}
+
+.blob-3 {
+    width: 300px;
+    height: 300px;
+    background: linear-gradient(135deg, #1a8bb5, #29afe3);
+    border-radius: 40% 60% 60% 40% / 40% 60% 40% 60%;
+    top: 40%;
+    left: 40%;
+    animation: blob-morph-3 20s ease-in-out infinite, blob-float-3 22s ease-in-out infinite;
+}
+
+@keyframes blob-morph-1 {
+
+    0%,
+    100% {
+        border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    }
+
+    50% {
+        border-radius: 70% 30% 30% 70% / 70% 70% 30% 30%;
+    }
+}
+
+@keyframes blob-morph-2 {
+
+    0%,
+    100% {
+        border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+    }
+
+    50% {
+        border-radius: 30% 60% 70% 40% / 50% 60% 30% 70%;
+    }
+}
+
+@keyframes blob-morph-3 {
+
+    0%,
+    100% {
+        border-radius: 40% 60% 60% 40% / 40% 60% 40% 60%;
+    }
+
+    50% {
+        border-radius: 60% 40% 40% 60% / 60% 40% 60% 40%;
+    }
+}
+
+@keyframes blob-float-1 {
+
+    0%,
+    100% {
+        transform: translate(0, 0) rotate(0deg);
+    }
+
+    33% {
+        transform: translate(30px, -30px) rotate(120deg);
+    }
+
+    66% {
+        transform: translate(-30px, 20px) rotate(240deg);
+    }
+}
+
+@keyframes blob-float-2 {
+
+    0%,
+    100% {
+        transform: translate(0, 0) rotate(0deg);
+    }
+
+    33% {
+        transform: translate(-40px, 40px) rotate(-120deg);
+    }
+
+    66% {
+        transform: translate(40px, -20px) rotate(-240deg);
+    }
+}
+
+@keyframes blob-float-3 {
+
+    0%,
+    100% {
+        transform: translate(0, 0) scale(1);
+    }
+
+    50% {
+        transform: translate(-50px, 50px) scale(1.15);
+    }
+}
+
+/* ================== ANIMATED DOTS GRID ================== */
+
+.dots-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle, #29afe3 1px, transparent 1px);
+    background-size: 50px 50px;
+    opacity: 0.15;
+    animation: dots-move 60s linear infinite;
+}
+
+@keyframes dots-move {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 50px 50px;
+    }
+}
+
+/* ================== DIAGONAL LINES PATTERN ================== */
+
+.diagonal-lines-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: repeating-linear-gradient(45deg,
+            transparent,
+            transparent 35px,
+            rgba(41, 175, 227, 0.05) 35px,
+            rgba(41, 175, 227, 0.05) 70px);
+    animation: diagonal-move 30s linear infinite;
+}
+
+@keyframes diagonal-move {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 70px 70px;
+    }
+}
+
+/* ================== PARTICLE BURST EFFECT ================== */
+
+.particle-burst {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    opacity: 0;
+}
+
+.particle-burst-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 10px;
+    height: 10px;
+}
+
+/* ================== SCROLL-TRIGGERED ANIMATIONS ================== */
+
+.section-bg-animated {
+    position: relative;
+    overflow: hidden;
+}
+
+.section-bg-animated::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(41, 175, 227, 0.1) 0%, transparent 70%);
+    animation: radial-pulse 8s ease-in-out infinite;
+}
+
+@keyframes radial-pulse {
+
+    0%,
+    100% {
+        transform: scale(1);
+        opacity: 0.5;
+    }
+
+    50% {
+        transform: scale(1.2);
+        opacity: 0.8;
+    }
+}
+
+/* ================== RESPONSIVE ADJUSTMENTS ================== */
+
+@media (max-width: 991px) {
+    .orb {
+        filter: blur(40px);
+    }
+
+    .orb-1,
+    .orb-2,
+    .orb-3,
+    .orb-4 {
+        width: 200px;
+        height: 200px;
+    }
+
+    .blob-1,
+    .blob-2,
+    .blob-3 {
+        width: 250px;
+        height: 250px;
+    }
+
+    .geo-shape {
+        opacity: 0.05;
+    }
+}
+
+@media (max-width: 767px) {
+    .wave-layer {
+        background-size: 50% 60px;
+    }
+
+    .orb {
+        display: none;
+        /* Hide orbs on mobile for performance */
+    }
+
+    .blob-container,
+    .geometric-bg {
+        display: none;
+        /* Hide heavy animations on mobile */
+    }
+
+    .dots-bg,
+    .diagonal-lines-bg {
+        animation: none;
+        /* Stop animations on mobile */
+    }
+}
+
+/* ================== PERFORMANCE OPTIMIZATION ================== */
+
+.wave-layer,
+.orb,
+.geo-shape,
+.blob {
+    will-change: transform;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+
+    .wave-layer,
+    .orb,
+    .geo-shape,
+    .blob,
+    .dots-bg,
+    .diagonal-lines-bg {
+        animation: none !important;
+    }
+}
