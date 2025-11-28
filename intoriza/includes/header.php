@@ -45,6 +45,17 @@
                                 <li><a href="<?php echo $root; ?>services/after-sale-services/index.php">After Sales Services</a></li>
                             </ul>
                         </li>
+                        <li>
+                            <a href="<?php echo $root; ?>sectors/index.php">Sectors</a>
+                            <ul class="sub-menu">
+                                <li><a href="<?php echo $root; ?>sectors/pharmaceutical-nutraceutical/index.php">Pharmaceutical</a></li>
+                                <li><a href="<?php echo $root; ?>sectors/hospital/index.php">Hospitals</a></li>
+                                <li><a href="<?php echo $root; ?>sectors/laboratories/index.php">Laboratories</a></li>
+                                <li><a href="<?php echo $root; ?>sectors/food-industry/index.php">Food Industry</a></li>
+                                <li><a href="<?php echo $root; ?>sectors/electronics/index.php">Electronics</a></li>
+                                <li><a href="<?php echo $root; ?>sectors/medical-surgical-devices/index.php">Medical Devices</a></li>
+                            </ul>
+                        </li>
                         <li><a href="<?php echo $root; ?>contact/index.php">Contact</a></li>
                     </ul>
                 </div>

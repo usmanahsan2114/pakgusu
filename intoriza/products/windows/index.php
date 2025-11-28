@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = '../../';
 $pageTitle = "Cleanroom Windows | Double Glazed Flush Windows | Pak Gusu";
 $pageDescription = "Double-glazed cleanroom windows with flush design for easy cleaning and GMP compliance. Silicone sealed for airtight performance.";
@@ -51,31 +51,31 @@ include($root . 'includes/head.php');
                                                 <!-- COLUMNS 1 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 2 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 3 -->
                                                 <div class="item">
                                                     <div class="owl-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 4 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 5 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                            </div>
@@ -95,7 +95,7 @@ include($root . 'includes/head.php');
                                 </div>
                                 <!-- TITLE END -->                            
                                 <p>Pak Gusu supplies <strong>flush, double-glazed cleanroom windows</strong> that integrate seamlessly into our panel systems. Based on Gusu's cleanroom window concepts, the frames are designed for airtightness and easy cleaning.</p>
-                                <p>Our windows feature double-glazed glass with sealed perimeter, flush with the wall surface â€“ no dust-collecting ledges, and silicone-sealed joints to avoid air leakage and particle accumulation.</p>
+                                <p>Our windows feature double-glazed glass with sealed perimeter, flush with the wall surface – no dust-collecting ledges, and silicone-sealed joints to avoid air leakage and particle accumulation.</p>
                                  <a href="<?php echo $root; ?>products/index.php" class="site-button m-t15 m-b15">View All Products</a>
                             </div>                            
                         </div>
@@ -130,7 +130,7 @@ include($root . 'includes/head.php');
                                             <h4 class="wt-tilte m-b25">Features</h4>
                                             <ul class="list-angle-right text-left">
                                                 <li>Double-glazed glass with sealed perimeter</li>
-                                                <li>Flush with the wall surface â€“ no dust-collecting ledges</li>
+                                                <li>Flush with the wall surface – no dust-collecting ledges</li>
                                                 <li>Silicone-sealed joints to avoid air leakage and particle accumulation</li>
                                                 <li>Compatible with panel thicknesses used in Pharmaceutical and healthcare facilities</li>
                                             </ul>

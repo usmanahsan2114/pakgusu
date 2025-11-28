@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../../';
 $pageTitle = "After-Sales Cleanroom Services | Maintenance & Modifications | Pak Gusu";
 $pageDescription = "Reliable after-sales cleanroom services by Pak Gusu. Maintenance, modifications, expansions, and technical support for your cleanroom facility.";
@@ -51,31 +51,31 @@ include($root . 'includes/head.php');
                                                 <!-- COLUMNS 1 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 2 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 3 -->
                                                 <div class="item">
                                                     <div class="owl-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 4 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 5 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                            </div>
@@ -94,7 +94,7 @@ include($root . 'includes/head.php');
                                     <h2>After-Sales Services</h2>
                                 </div>
                                 <!-- TITLE END -->                            
-                                <p>Cleanroom needs change over time – new products, new equipment, or regulatory updates can all require modifications.</p>
+                                <p>Cleanroom needs change over time � new products, new equipment, or regulatory updates can all require modifications.</p>
                                 <p>Pak Gusu remains available after project completion to adjust or relocate panels and doors, add new openings, windows or transfer hatches, expand existing cleanroom areas, and provide technical advice when planning process changes.</p>
                                 <p>Our local presence in Pakistan ensures quicker response times compared to purely imported solutions.</p>
                                  <a href="<?php echo $root; ?>services/index.php" class="site-button m-t15 m-b15">View All Services</a>

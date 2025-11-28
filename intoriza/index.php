@@ -91,7 +91,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index:9; line-height:30px;"><a href="contact/index.html" class="site-button-secondry">Read More</a></div>
+                                style="z-index:9; line-height:30px;"><a href="contact/index.php" class="site-button-secondry">Read More</a></div>
 
 							<div class="tp-caption rev-btn  tp-resizeme site-bg-primary " 
                                 id="slide-73-layer-3" 
@@ -134,7 +134,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[10,10,10,10]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; white-space: nowrap; font-size: 18px; line-height: 20px; font-weight: 400;font-family: 'Poppins', sans-serif; text-transform:uppercase; color: #fff;"> Trust and recommed </div>
+                                style="z-index: 10; white-space: nowrap; font-size: 18px; line-height: 20px; font-weight: 400;font-family: 'Poppins', sans-serif; text-transform:uppercase; color: #fff;"> Cleanroom Experts </div>
             
                             <!-- LAYER 6  tag line-->
                             <div class="tp-caption   tp-resizeme" 
@@ -158,7 +158,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[30,30,30,30]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; white-space: normal;font-weight: 700; color: #ffffff;font-family: 'Martel', serif;">Giving your<br> home a new style every style</div>
+                                style="z-index: 10; white-space: normal;font-weight: 700; color: #ffffff;font-family: 'Martel', serif;">Advanced Cleanroom<br> Solutions in Pakistan</div>
                         </li>
                         
                         <!-- SLIDE  -->
@@ -231,8 +231,8 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index:9; line-height:30px;"><a href="contact/index.html" class="site-button-secondry">Read More</a></div>
-
+                                style="z-index:9; line-height:30px;"><a href="contact/index.php" class="site-button-secondry">Read More</a></div>
+            
 							<div class="tp-caption rev-btn  tp-resizeme site-bg-primary" 
                                 id="slide-74-layer-3" 
                                 data-x="['right','right','right','right']" data-hoffset="['870','570','370','870']" 
@@ -274,7 +274,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[10,10,10,10]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; white-space: nowrap; font-size: 18px; line-height: 20px; font-weight: 400;font-family: 'Poppins', sans-serif; text-transform:uppercase; color: #fff;"> Trust and recommed </div>
+                                style="z-index: 10; white-space: nowrap; font-size: 18px; line-height: 20px; font-weight: 400;font-family: 'Poppins', sans-serif; text-transform:uppercase; color: #fff;"> GMP Compliant </div>
             
                             <!-- LAYER 6  tag line-->
                             <div class="tp-caption   tp-resizeme" 
@@ -298,7 +298,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[30,30,30,30]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; white-space: normal;font-weight: 700; color: #ffffff;font-family: 'Martel', serif;">Inspiring world<br> with innovative space design</div>
+                                style="z-index: 10; white-space: normal;font-weight: 700; color: #ffffff;font-family: 'Martel', serif;">Pharmaceutical &<br> Industrial Cleanrooms</div>
                         </li>
                         
                         <!-- SLIDE  -->
@@ -371,8 +371,8 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[0,0,0,0]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index:9; line-height:30px;"><a href="contact/index.html" class="site-button-secondry">Read More</a></div>
-
+                                style="z-index:9; line-height:30px;"><a href="contact/index.php" class="site-button-secondry">Read More</a></div>
+            
 							<div class="tp-caption rev-btn  tp-resizeme site-bg-primary " 
                                 id="slide-75-layer-3" 
                                 data-x="['right','right','right','right']" data-hoffset="['870','570','370','870']" 
@@ -414,7 +414,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[10,10,10,10]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; white-space: nowrap; font-size: 18px; line-height: 20px; font-weight: 400;font-family: 'Poppins', sans-serif; text-transform:uppercase; color: #fff;"> Trust and recommed </div>
+                                style="z-index: 10; white-space: nowrap; font-size: 18px; line-height: 20px; font-weight: 400;font-family: 'Poppins', sans-serif; text-transform:uppercase; color: #fff;"> Turnkey Projects </div>
             
                             <!-- LAYER 6  tag line-->
                             <div class="tp-caption   tp-resizeme" 
@@ -438,7 +438,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 data-paddingbottom="[30,30,30,30]"
                                 data-paddingleft="[0,0,0,0]"
             
-                                style="z-index: 10; white-space: normal;font-weight: 700; color: #ffffff;font-family: 'Martel', serif;">Exceptional <br> designing for exceptional Spaces </div>
+                                style="z-index: 10; white-space: normal;font-weight: 700; color: #ffffff;font-family: 'Martel', serif;">Design, Manufacture,<br> Installation & Validation</div>
                         </li>                                                
                       
                     </ul>
@@ -460,31 +460,31 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                                 <!-- COLUMNS 1 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="project-detail.html"><img src="images/welcome-slider/1.jpg" alt=""></a>
+                                                        <a href="javascript:void(0);"><img src="images/welcome-slider/1.jpg" alt="Pak Gusu Cleanroom"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 2 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="project-detail.html"><img src="images/welcome-slider/2.jpg" alt=""></a>
+                                                        <a href="javascript:void(0);"><img src="images/welcome-slider/2.jpg" alt="Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 3 -->
                                                 <div class="item">
                                                     <div class="owl-img">
-                                                        <a href="project-detail.html"><img src="images/welcome-slider/3.jpg" alt=""></a>
+                                                        <a href="javascript:void(0);"><img src="images/welcome-slider/3.jpg" alt="GMP Cleanroom Solutions"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 4 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="project-detail.html"><img src="images/welcome-slider/4.jpg" alt=""></a>
+                                                        <a href="javascript:void(0);"><img src="images/welcome-slider/4.jpg" alt="Pharmaceutical Cleanroom"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 5 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="project-detail.html"><img src="images/welcome-slider/5.jpg" alt=""></a>
+                                                        <a href="javascript:void(0);"><img src="images/welcome-slider/5.jpg" alt="Cleanroom Panels Installation"></a>
                                                     </div>
                                                 </div>
                                            </div>
@@ -505,7 +505,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                 <!-- TITLE END -->                            
                                 <p>Pak Gusu is a specialist cleanroom manufacturing company based in Lahore, Pakistan, backed by a team with strong Pharmaceutical and Engineering backgrounds. We understand the regulatory, GMP and operational demands of modern clean facilities — and we translate that understanding into practical, reliable cleanroom solutions.</p>
                                 <p>From concept and layout to production, installation and after-sales support, we help you build and maintain clean environments that meet international standards and local industry needs.</p>
-                                 <a href="about/index.html" class="site-button m-t15 m-b15">Learn More</a>
+                                 <a href="about/index.php" class="site-button m-t15 m-b15">Learn More</a>
                             </div>                            
                         </div>
                         
@@ -559,6 +559,56 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
             </div>
             <!-- WHO WE ARE SECTION END -->
             
+            <!-- STATISTICS COUNTER SECTION START -->
+            <div class="section-full p-t80 p-b80 stats-counter-section bg-center bg-cover" style="background-image:url(images/background/bg-stats.jpg);">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                            <div class="counter-box" data-aos="zoom-in" data-aos-delay="100">
+                                <div class="counter-icon">
+                                    <i class="flaticon-building"></i>
+                                </div>
+                                <span class="counter" data-target="50">0</span>
+                                <span class="counter-suffix">+</span>
+                                <h4>Projects Completed</h4>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                            <div class="counter-box" data-aos="zoom-in" data-aos-delay="200">
+                                <div class="counter-icon">
+                                    <i class="flaticon-like"></i>
+                                </div>
+                                <span class="counter" data-target="20">0</span>
+                                <span class="counter-suffix">+</span>
+                                <h4>Happy Clients</h4>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                            <div class="counter-box" data-aos="zoom-in" data-aos-delay="300">
+                                <div class="counter-icon">
+                                    <i class="flaticon-sketch"></i>
+                                </div>
+                                <span class="counter" data-target="5000">0</span>
+                                <span class="counter-suffix">+</span>
+                                <h4>Sq.M. Installed</h4>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
+                            <div class="counter-box" data-aos="zoom-in" data-aos-delay="400">
+                                <div class="counter-icon">
+                                    <i class="flaticon-trophy"></i>
+                                </div>
+                                <span class="counter" data-target="100">0</span>
+                                <span class="counter-suffix">%</span>
+                                <h4>GMP Compliance</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- STATISTICS COUNTER SECTION END -->
+            
+            
             <!-- MANUFACTURING FACILITY SECTION START -->
             <div class="section-full p-t80 p-b50 bg-white">
                 <div class="container">
@@ -606,7 +656,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                     <li>Correct positioning of doors, windows and transfer hatches</li>
                                     <li>Integration with HVAC and filtration design (in collaboration with your HVAC specialists where required)</li>
                                 </ul>
-                                <a href="about/cleanroom-classifications/index.html" class="site-button m-t20">Learn More About Classifications</a>
+                                <a href="about/cleanroom-classifications/index.php" class="site-button m-t20">Learn More About Classifications</a>
                             </div>
                         </div>
                     </div>
@@ -633,12 +683,12 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                     <div class="owl-carousel owl-carousel-filter  owl-btn-bottom-center">
                         <!-- COLUMNS 1 --> 
                         <div class="item">
-                            <div class="line-filter-outer bg-cover" style="background-image:url(../images/project/1.jpg);">
+                            <div class="line-filter-outer bg-cover" style="background-image:url(images/project/1.jpg);">
                                 <div class="hover-effect-1">
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Pharmaceutical & Nutraceutical</h4>
                                         <p>GMP-compliant cleanroom solutions for pharmaceutical and nutraceutical manufacturing facilities.</p>
-                                        <a href="sectors/pharmaceutical-nutraceutical/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                        <a href="sectors/pharmaceutical-nutraceutical/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                     </div>
                                 </div>                                     
                             </div>
@@ -651,7 +701,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Hospitals & Healthcare</h4>
                                         <p>Cleanroom envelopes for operating rooms, ICUs, and specialized hospital departments.</p>
-                                        <a href="sectors/hospital/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                        <a href="sectors/hospital/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                     </div>
                                 </div>                                       
                             </div>
@@ -664,7 +714,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Food Industry</h4>
                                         <p>Cleanroom and hygienic envelope solutions for food and beverage processing facilities.</p>
-                                        <a href="sectors/food-industry/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                        <a href="sectors/food-industry/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                     </div>
                                 </div>                                         
                             </div>
@@ -677,7 +727,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Electronics & Assembly</h4>
                                         <p>Cleanroom solutions for electronics, semiconductor and precision assembly applications.</p>
-                                        <a href="sectors/electronics/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                        <a href="sectors/electronics/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                     </div>
                                 </div>                                        
                             </div>
@@ -690,7 +740,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Laboratories</h4>
                                         <p>QC, R&D and biosafety laboratory cleanroom solutions with specialized equipment integration.</p>
-                                        <a href="sectors/laboratories/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                        <a href="sectors/laboratories/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                     </div>
                                 </div>                                       
                             </div>
@@ -703,7 +753,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                     <div class="hover-effect-content">
                                         <h4 class="m-t0 m-b25">Medical & Surgical Devices</h4>
                                         <p>ISO-classified cleanroom solutions for medical and surgical device manufacturing.</p>
-                                        <a href="sectors/medical-surgical-devices/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                        <a href="sectors/medical-surgical-devices/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                     </div>
                                 </div>                                    
                             </div>
@@ -721,7 +771,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                     <div class="section-content text-center">
                         <h2 class="m-b20">Ready to start a cleanroom project in Pakistan?</h2>
                         <p class="m-b30">Contact Pak Gusu for a site visit, preliminary GMP layout, or a budgetary quotation.</p>
-                        <a href="contact/index.html" class="site-button">Get In Touch</a>
+                        <a href="contact/index.php" class="site-button">Get In Touch</a>
                     </div>
                 </div>
             </div>
@@ -751,7 +801,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">Cleanroom Panels</h4>
                                             <p>XPS, PU and Rockwool sandwich panels for cleanroom walls and ceilings, providing fire performance and structural stability.</p>
-                                            <a href="products/clean-room-panels/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                            <a href="products/clean-room-panels/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                         </div>
                                     </div>
                                     
@@ -766,7 +816,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">Cleanroom Windows</h4>
                                             <p>Flush, double-glazed cleanroom windows that integrate seamlessly with panel systems for clear visibility.</p>
-                                            <a href="products/windows/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                            <a href="products/windows/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                         </div>
                                     </div>
                                     
@@ -781,7 +831,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">Cleanroom Doors</h4>
                                             <p>Single and double-leaf cleanroom doors designed for air-tightness, durability and GMP compliance.</p>
-                                            <a href="products/doors/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                            <a href="products/doors/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                         </div>
                                     </div>
                                     
@@ -796,7 +846,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">Planning & Design</h4>
                                             <p>GMP layout design, panel selection and HVAC coordination for successful cleanroom projects.</p>
-                                            <a href="services/planning-and-design/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                            <a href="services/planning-and-design/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                         </div>
                                     </div>
                                     
@@ -811,7 +861,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">Installation</h4>
                                             <p>On-site cleanroom installation services ensuring panels, doors and windows are installed to specification.</p>
-                                            <a href="services/installation/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                            <a href="services/installation/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                         </div>
                                     </div>
                                     
@@ -826,7 +876,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">After-Sales Support</h4>
                                             <p>Technical support, modifications, expansions and maintenance services after project completion.</p>
-                                            <a href="services/after-sale-services/index.html" class="site-button-link" data-hover="Read More">Read More</a>
+                                            <a href="services/after-sale-services/index.php" class="site-button-link" data-hover="Read More">Read More</a>
                                         </div>
                                     </div>
                                     
@@ -839,7 +889,7 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
             <!-- WHAT WE DO  SECTION END --> 
             
             <!-- VIDEO SECTION START -->
-            <div class="section-full p-tb80 bg-center bg-no-repeat bg-cover" style="background-image:url(../images/background/bg-1.jpg);">
+            <div class="section-full p-tb80 bg-center bg-no-repeat bg-cover" style="background-image:url(images/background/bg-1.jpg);">
                 <div class="container">
                     <div class="section-content">
                         <div class="video-section-full bg-white">
@@ -862,452 +912,31 @@ $pageKeywords = "cleanroom pakistan, cleanroom panels, cleanroom doors, cleanroo
             </div>   
             <!-- VIDEO SECTION END -->             
             
-            <!-- OUR BLOG START -->
-            <div class="section-full small-device bg-white p-t80 p-b40">
-				<div class="container">
-                    <!-- TITLE START -->
-                    <div data-aos="fade-down" class="section-head text-center">
-                        <div class="wt-separator-outer separator-center">
-                            <div class="wt-separator">
-                                <span class="site-text-primary text-uppercase sep-line-one ">Our latest blog</span>
-                            </div>
-                        </div>
-                        <h2>Latest News</h2>
-                    </div>
-                    <!-- TITLE END -->                   
-                    <!-- TITLE START -->
-    
-                    <!-- IMAGE CAROUSEL START -->
-                    <div class="section-content">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6">
-                                <div data-aos="fade-up" class="blog-post latest-blog-1  date-style-1">
-                                    <div class="wt-post-media wt-img-effect zoom-slow">
-                                        <a href="post-right-sidebar.html"><img src="images/blog/latest-blog/pic1.jpg" alt=""></a>
-                                    </div>
-                                    <div class="wt-post-info">
-                                        <div class="post-date"> <strong>04 Feb 2024 </strong></div>                                     
-                                        <div class="wt-post-title">
-                                            <h4 class="post-title"><a href="post-right-sidebar.html">What a perfect and beautiful three day weekend in Brooklyn inspiring world with innovative</a></h4>
-                                        </div>
-                                        <div class="wt-post-text">
-                                            <p>Asperiores, tenetur, blanditiis, quaerat odit ex exercitationem pariatur quibusd veritatis quisquam laboriosam asperiores, tenetur, blanditiis, quaerat odit ex exercitationem pariatur.</p> 
-                                        </div> 
-                                        <div class="wt-post-meta">
-                                            <ul class="clearfix">
-                                                <li class="post-author">
-                                                	<div class="post-author-pic">
-                                                    	<a href="post-right-sidebar.html">
-                                                            <span><img src="images/blog/latest-blog/user-pic.jpg" alt=""></span>
-                                                            <span><strong> By</strong> Loretta Shelton</span>
-                                                        </a>
-                                                    </div> 
-                                                </li>
-                                                <li class="post-like"><i class="fa fa-heart-o"></i><a href="post-right-sidebar.html">5</a> </li>
-                                                <li class="post-comment"><i class="fa fa fa-comments"></i><a href="post-right-sidebar.html">10</a> </li>                                                
-                                            </ul>
-                                        </div>                                                                                    
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="col-lg-6 col-md-6">
-                                <div data-aos="fade-up" class="blog-post latest-blog-1 date-style-1">
-                                    <div class="wt-post-media wt-img-effect zoom-slow">
-                                        <a href="post-right-sidebar.html"><img src="images/blog/latest-blog/pic2.jpg" alt=""></a>
-                                    </div>
-                                    <div class="wt-post-info">
-                                        <div class="post-date"> <strong>06 Feb 2024 </strong></div>                                     
-                                        <div class="wt-post-title">
-                                            <h4 class="post-title"><a href="post-right-sidebar.html">Interior design firm specializing in eco friendly design and materials Sustainable design with your earth.</a></h4>
-                                        </div>
-                                        <div class="wt-post-text">
-                                            <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words</p> 
-                                        </div> 
-                                        <div class="wt-post-meta">
-                                            <ul class="clearfix">
-                                                <li class="post-author">
-                                                	<div class="post-author-pic">
-                                                    	<a href="post-right-sidebar.html">
-                                                            <span><img src="images/blog/latest-blog/user-pic2.jpg" alt=""></span>
-                                                            <span><strong> By</strong> Loretta Shelton</span>
-                                                        </a>
-                                                    </div> 
-                                                </li>
-                                                <li class="post-like"><i class="fa fa-heart-o"></i><a href="post-right-sidebar.html">5</a> </li>
-                                                <li class="post-comment"><i class="fa fa fa-comments"></i><a href="post-right-sidebar.html">10</a></li>                                                
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                                                                                                          
-                        </div>
-                    </div>
-                </div>
-                
-             </div>   
-            <!-- OUR BLOG END -->
-
-            <!-- CLIENT LOGO SECTION START -->
-            <div class="section-full small-device bg-gray   p-t80 p-b60">
-                <div class="container">
-                
-                    <!-- TITLE START -->
-                    <div data-aos="fade-down" class="section-head text-center">
-                        <div class="wt-separator-outer separator-center">
-                            <div class="wt-separator">
-                                <span class="site-text-primary text-uppercase sep-line-one ">Meet our clients</span>
-                            </div>
-                        </div>
-                        <h2>Our Clients</h2>
-                    </div>
-                    <!-- TITLE END -->                
-                      <div class="section-content p-tb10 owl-btn-vertical-center">
-                            <div class="owl-carousel home-client-carousel-2">
-                            
-                                <div class="item">
-                                    <div class="ow-client-logo">
-                                        <div class="client-logo client-logo-media">
-                                        <a href="contact/index.html"><img src="images/client-logo/w1.png" alt=""></a></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <div class="ow-client-logo">
-                                        <div class="client-logo client-logo-media">
-                                        <a href="contact/index.html"><img src="images/client-logo/w2.png" alt=""></a></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <div class="ow-client-logo">
-                                        <div class="client-logo client-logo-media">
-                                        <a href="contact/index.html"><img src="images/client-logo/w3.png" alt=""></a></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <div class="ow-client-logo">
-                                        <div class="client-logo client-logo-media">
-                                        <a href="contact/index.html"><img src="images/client-logo/w4.png" alt=""></a></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <div class="ow-client-logo">
-                                        <div class="client-logo client-logo-media">
-                                        <a href="contact/index.html"><img src="images/client-logo/w5.png" alt=""></a></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <div class="ow-client-logo">
-                                        <div class="client-logo client-logo-media">
-                                        <a href="contact/index.html"><img src="images/client-logo/w6.png" alt=""></a></div>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                      </div>
-                </div>
-            </div>
-            <!-- CLIENT LOGO  SECTION End -->
-                        
-			<!-- OUR WORK CONTENT START -->
-            <div class="section-full small-device  p-t80 p-b50 bg-white">
-
-            	 <div class="container">
-                    <!-- TITLE START -->
-                    <div data-aos="fade-down" class="section-head text-center">
-                        <div class="wt-separator-outer separator-center">
-                            <div class="wt-separator">
-                                <span class="site-text-primary text-uppercase sep-line-one ">Our Work gallery</span>
-                            </div>
-                        </div>
-                        <h2>Our Work</h2>
-                    </div>
-                    <!-- TITLE END -->                  
-                 </div>
-
-                <!-- GALLERY CONTENT START -->
-                <div class="container-fluid">
-                    <div class="portfolio-wrap mfp-gallery work-grid clearfix row">
-                        
-                        <!-- COLUMNS 1 -->
-                        <div class="stamp masonry-item  col-xl-3 col-lg-6 col-md-6 m-b40">
-                            <div class="bg-gray p-a30 p-b20 stamp-secion">
-                                <h4 class="wt-tilte m-t0">We create Innovative design. exceptional designing for exceptional Spaces</h4>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration fact some form, by injected humour, or randomised words which don't look even slightly believable. If you are this going to be use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted.</p>
-                                <div class="filter-wrap">
-                                    <ul class="filter-navigation masonry-filter text-uppercase">
-                                        <li class="active"><a data-filter="*" data-hover="All" href="#">All</a></li>
-                                        <li><a data-filter=".cat-1" data-hover="Bathroom" href="javascript:;">Bathroom</a></li>
-                                        <li><a data-filter=".cat-4" data-hover="Spa" href="javascript:;">Spa</a></li>
-                                        <li><a data-filter=".cat-2" data-hover="Furniture" href="javascript:;">Furniture</a></li>
-                                        <li><a data-filter=".cat-3" data-hover="Decor" href="javascript:;">Decor</a></li>
-                                        <li><a data-filter=".cat-5" data-hover="Building" href="javascript:;">Building</a></li>
-                                        <li><a data-filter=".cat-6" data-hover="Living" href="javascript:;" >Living </a></li>
-                                    </ul>
-                                </div>                          
-                            </div>            
-                        </div>    
-                        
-                        <!-- COLUMNS 2 -->
-                        <div class="masonry-item  cat-2  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-1.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Chair Furniture</a></h4>
-                                    <p class="m-b0">Muscat, Sultanate of Oman</p>      
-                                </div>                                    
-                            </div>
-                        </div>
-
-                        <!-- COLUMNS 3 -->
-                        <div class="masonry-item  cat-2  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-2.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Furniture</a></h4>
-                                    <p class="m-b0">North House</p>      
-                                </div>                                 
-                            </div>
-                        </div>
-                        
-                        <!-- COLUMNS 4 -->
-                        <div class="masonry-item  cat-6  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-3.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Living room</a></h4>
-                                    <p class="m-b0">Aqaba, Jordan</p>      
-                                </div>                                 
-                            </div>
-                        </div>
-                        <!-- COLUMNS 5 -->
-                        <div class="masonry-item  cat-6  col-xl-3 col-lg-6 col-md-6 m-b30">
-                        <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-4.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Dream Workspace</a></h4>
-                                    <p class="m-b0">Perth, Australia </p>      
-                                </div>                                 
-                            </div>
-                        </div>
-
-                        <!-- COLUMNS 6 -->
-                        <div class="masonry-item  cat-3  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx  img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-5.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Decore</a></h4>
-                                    <p class="m-b0">Aqaba, Jordan</p>      
-                                </div>                                   
-                            </div>
-                        </div>
-                        <!-- COLUMNS 7 -->
-                        <div class="masonry-item  cat-3  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx  img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-6.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Modern Decoration</a></h4>
-                                    <p class="m-b0">Muscat, Sultanate of Oman</p>      
-                                </div>                                   
-                            </div>
-                        </div>
-
-                        <!-- COLUMNS 8 -->
-                        <div class="masonry-item  cat-1  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-7.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Bathroom</a></h4>
-                                    <p class="m-b0">North House</p>      
-                                </div>                                  
-                            </div>
-                        </div>
-
-                        <!-- COLUMNS 9 -->
-                        <div class="masonry-item  cat-5  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-8.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Building house</a></h4>
-                                    <p class="m-b0">Ultanate of Oman </p>      
-                                </div>                                   
-                            </div>
-                        </div> 
-                        
-                        <!-- COLUMNS 10 -->
-                        <div class="masonry-item  cat-4  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-9.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Spa residence</a></h4>
-                                    <p class="m-b0">Perth, Australia </p>      
-                                </div>                                  
-                            </div>
-                        </div>
-                        
-                        <!-- COLUMNS 11 -->
-                        <div class="masonry-item  cat-3  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-10.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Lamp decoration</a></h4>
-                                    <p class="m-b0">Aqaba, Jordan</p>      
-                                </div>                                  
-                            </div>
-                        </div>  
-                        
-                        <!-- COLUMNS 11 -->
-                        <div class="masonry-item  cat-3  col-xl-3 col-lg-6 col-md-6 m-b30">
-                            <div class="wt-box   work-hover-content">
-                                <div class="wt-thum-bx img-center-icon">
-                                    <a href="project-detail.html"><img src="images/our-work/s-1.jpg" alt=""></a>
-                                </div>
-                                <div class="wt-info  p-t20">
-                                    <h4 class="wt-tilte m-b10 m-t0"><a href="project-detail.html">Lamp decoration</a></h4>
-                                    <p class="m-b0">Aqaba, Jordan</p>      
-                                </div>                                  
-                            </div>
-                        </div> 
-
-                    </div>
-                </div>
-                <!-- GALLERY CONTENT END -->                    
-            	
-            </div>
-            <!-- OUR WORK CONTENT END  --> 
-                       
-            <!-- TESTIMONIAL SECTION START -->
-            <div class="section-full small-device  p-t80 p-b50 bg-white bg-repeat" style="background-image:url(../images/background/ptn-1.png)">
-				<div class="container">
-                    <div class="section-content">
-                    	<div class="row">
-                        	<div class="col-lg-7 col-md-12 m-b30">
-                                <div class="owl-carousel testimonial-home owl-btn-top-right">
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="images/testimonials/pic1.jpg" width="132" height="132" alt="">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="images/testimonials/pic2.jpg" width="132" height="132" alt="">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
-                                    </div>
-                                    <div class="item">
-                                        <div class="testimonial-5">
-
-                                            <div class="testimonial-text">
-                                                <div class="testimonial-paragraph">
-                                                    <span class="fa fa-quote-left site-text-primary"></span>
-                                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or rand omised words which don't look even slightly believable.</p>
-                                                </div>
-                                            </div>
-                                            <div class="clearfix">
-                                                <div class="testimonial-detail clearfix">
-                                                    <strong class="testimonial-name text-black">Justine Fiber</strong>
-                                                    <span class="testimonial-position p-t5">Founder</span>
-                                                </div>                                            
-                                                <div class="testimonial-pic-block"> 
-                                                    <div class="testimonial-pic">
-                                                        <img src="images/testimonials/pic3.jpg" width="132" height="132" alt="">
-                                                    </div>
-                                                </div>
-                                            </div>                                            
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-5 col-md-12 m-b30">
-                            	<div class="counter-section-one">
-                                	<div class="counter-sec-top">
-                                        <div class="p-a20 text-black wt-icon-box-wraper center">
-                                            <div class="counter font-40 m-b5">250</div>
-                                            <h4>Projects</h4>
-                                        </div>                                    	
-                                    </div>
-                                	<div class="counter-sec-bottom">
-                                        <div class="p-a20 text-black wt-icon-box-wraper center">
-                                            <div class="counter font-40 m-b5">500</div>
-                                            <h4>Expert Engineer</h4>
-                                        </div>                                    	
-                                    </div>                                    
-                                </div>
-
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>   
-            <!-- TESTIMONIAL SECTION END -->               
-                                 
-
         </div>
         <!-- CONTENT END -->
         
         <?php include('includes/footer.php'); ?>
+
         
+        <!-- FLOATING ACTION BUTTON START -->
+        <div class="fab-wrapper">
+            <button class="fab-button">
+                <i class="fa fa-commenting"></i>
+            </button>
+            <div class="fab-options">
+                <a href="https://wa.me/923001234567" target="_blank" class="fab-option whatsapp" title="WhatsApp">
+                    <i class="fa fa-whatsapp"></i>
+                </a>
+                <a href="mailto:info@pakgusu.com" class="fab-option email" title="Email">
+                    <i class="fa fa-envelope"></i>
+                </a>
+                <a href="tel:+923001234567" class="fab-option phone" title="Call Us">
+                    <i class="fa fa-phone"></i>
+                </a>
+            </div>
+        </div>
+        <!-- FLOATING ACTION BUTTON END -->
+
         <!-- BUTTON TOP START -->
         <button class="scroltop"><span class="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
     </div>

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $root = '../../';
 $pageTitle = "Cleanroom Construction Services | Turnkey Solutions | Pak Gusu";
 $pageDescription = "Expert cleanroom construction services including panel installation, HVAC integration, and flooring. Turnkey solutions for pharmaceutical and industrial cleanrooms.";
@@ -51,31 +51,31 @@ include($root . 'includes/head.php');
                                                 <!-- COLUMNS 1 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 2 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 3 -->
                                                 <div class="item">
                                                     <div class="owl-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 4 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 5 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                            </div>

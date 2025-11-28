@@ -41,3 +41,12 @@
     once: true,
   });
 </script>
+
+<!-- MODERN UI LIBRARIES -->
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script><!-- PARTICLES JS -->
+<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script><!-- LIGHTBOX JS -->
+<script src="https://cdn.jsdelivr.net/npm/vanilla-tilt@1.7.0/dist/vanilla-tilt.min.js"></script><!-- TILT EFFECT -->
+
+<!-- CUSTOM HOMEPAGE INTERACTIONS -->
+<script src="<?php echo $root; ?>js/homepage-interactions.js"></script>
+

@@ -31,6 +31,8 @@
 <link rel="stylesheet" href="<?php echo $root; ?>plugins/revolution/revolution/css/settings.css"><!-- REVOLUTION SLIDER CSS -->
 <link rel="stylesheet" href="<?php echo $root; ?>plugins/revolution/revolution/css/navigation.css"><!-- REVOLUTION NAVIGATION STYLE -->
 <link rel="stylesheet" href="<?php echo $root; ?>css/aos.css"><!-- AOS ANIMATION STYLE SHEET -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" /><!-- LIGHTBOX STYLE -->
+<link rel="stylesheet" href="<?php echo $root; ?>css/custom-homepage.css"><!-- CUSTOM HOMEPAGE ENHANCEMENTS -->
 
 <!-- GOOGLE FONTS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">

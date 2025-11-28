@@ -1,4 +1,4 @@
-ï»¿<?php
+<?php
 $root = '../../';
 $pageTitle = "Transfer Windows | Pass Boxes | Static & Dynamic | Pak Gusu";
 $pageDescription = "Static and dynamic pass boxes (transfer windows) for material transfer in cleanrooms. Interlocking doors, UV sterilization, and HEPA filtration options.";
@@ -51,31 +51,31 @@ include($root . 'includes/head.php');
                                                 <!-- COLUMNS 1 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/1.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 2 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/2.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 3 -->
                                                 <div class="item">
                                                     <div class="owl-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/3.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 4 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/4.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                                 <!-- COLUMNS 5 -->
                                                 <div class="item">
                                                     <div class="ow-img">
-                                                        <a href="<?php echo $root; ?>project-detail.php"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
+                                                        <a href="javascript:void(0);"><img src="<?php echo $root; ?>images/welcome-slider/5.jpg" alt="Pak Gusu - Cleanroom Manufacturer Pakistan"></a>
                                                     </div>
                                                 </div>
                                            </div>
@@ -129,8 +129,8 @@ include($root . 'includes/head.php');
                                         <div class="icon-content text-black">
                                             <h4 class="wt-tilte m-b25">Types</h4>
                                             <ul class="list-angle-right text-left">
-                                                <li><strong>Static pass box</strong> â€“ For transfers between areas with similar cleanliness levels</li>
-                                                <li><strong>Dynamic pass box</strong> â€“ Integrated fan-filter unit (FFU) and HEPA filtration for transfers between areas of different cleanliness grades</li>
+                                                <li><strong>Static pass box</strong> – For transfers between areas with similar cleanliness levels</li>
+                                                <li><strong>Dynamic pass box</strong> – Integrated fan-filter unit (FFU) and HEPA filtration for transfers between areas of different cleanliness grades</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -196,7 +196,7 @@ include($root . 'includes/head.php');
                                             </tr>
                                             <tr>
                                                 <td><strong>Filtration (Dynamic)</strong></td>
-                                                <td>HEPA Filter (99.99% efficiency @ 0.3Î¼m)</td>
+                                                <td>HEPA Filter (99.99% efficiency @ 0.3µm)</td>
                                             </tr>
                                             <tr>
                                                 <td><strong>Sterilization</strong></td>
